@@ -1,0 +1,6 @@
+INFO:    User not listed in /etc/subuid, trying root-mapped namespace
+INFO:    The %post section will be run under the fakeroot command
+INFO:    Starting build...
+INFO:    Verifying bootstrap image /projects/jogr4852/clotsimnet/alpine_help/container/fenics_stnb_gmsh_v4.sif
+INFO:    Extracting local image...
+slurmstepd: error: *** JOB 12731310 ON c3cpu-a7-u34-4 CANCELLED AT 2025-04-04T15:16:13 DUE TO TIME LIMIT ***

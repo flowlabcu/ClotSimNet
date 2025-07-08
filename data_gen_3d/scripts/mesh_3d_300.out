@@ -1,0 +1,2793 @@
+nohup: ignoring input
+Generating meshes for 310 cases from /mnt/ssd1/joshgregory/clotsimnet_3d_300/tasks_300.csv
+
+
+Processing simulation 1 of 310 	0.3%
+Radius: 0.0542858857177143
+Number of voids: 341
+Packing fraction: 0.2285
+Running geo2h5
+[  0] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05428/bcc_lattice_rp_05428.h5
+Time taken: 250.64868664741516 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05428/bcc_lattice_rp_05428.h5
+
+Processing simulation 2 of 310 	0.6%
+Radius: 0.0543038860777215
+Number of voids: 341
+Packing fraction: 0.2287
+Running geo2h5
+[  1] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05430/bcc_lattice_rp_05430.h5
+Time taken: 244.44412922859192 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05430/bcc_lattice_rp_05430.h5
+
+Processing simulation 3 of 310 	1.0%
+Radius: 0.0543218864377287
+Number of voids: 341
+Packing fraction: 0.2290
+Running geo2h5
+[  2] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05432/bcc_lattice_rp_05432.h5
+Time taken: 246.5460331439972 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05432/bcc_lattice_rp_05432.h5
+
+Processing simulation 4 of 310 	1.3%
+Radius: 0.0543408868177363
+Number of voids: 341
+Packing fraction: 0.2292
+Running geo2h5
+[  3] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05434/bcc_lattice_rp_05434.h5
+Time taken: 244.5390477180481 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05434/bcc_lattice_rp_05434.h5
+
+Processing simulation 5 of 310 	1.6%
+Radius: 0.0543588871777435
+Number of voids: 341
+Packing fraction: 0.2294
+Running geo2h5
+[  4] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05435/bcc_lattice_rp_05435.h5
+Time taken: 244.43415427207947 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05435/bcc_lattice_rp_05435.h5
+
+Processing simulation 6 of 310 	1.9%
+Radius: 0.0543778875577511
+Number of voids: 341
+Packing fraction: 0.2297
+Running geo2h5
+[  5] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05437/bcc_lattice_rp_05437.h5
+Time taken: 242.32752799987793 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05437/bcc_lattice_rp_05437.h5
+
+Processing simulation 7 of 310 	2.3%
+Radius: 0.0543958879177583
+Number of voids: 341
+Packing fraction: 0.2299
+Running geo2h5
+[  6] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05439/bcc_lattice_rp_05439.h5
+Time taken: 242.9679892063141 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05439/bcc_lattice_rp_05439.h5
+
+Processing simulation 8 of 310 	2.6%
+Radius: 0.0544148882977659
+Number of voids: 341
+Packing fraction: 0.2301
+Running geo2h5
+[  7] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05441/bcc_lattice_rp_05441.h5
+Time taken: 241.805837392807 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05441/bcc_lattice_rp_05441.h5
+
+Processing simulation 9 of 310 	2.9%
+Radius: 0.0544328886577731
+Number of voids: 341
+Packing fraction: 0.2304
+Running geo2h5
+[  8] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05443/bcc_lattice_rp_05443.h5
+Time taken: 242.8853394985199 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05443/bcc_lattice_rp_05443.h5
+
+Processing simulation 10 of 310 	3.2%
+Radius: 0.0544518890377807
+Number of voids: 341
+Packing fraction: 0.2306
+Running geo2h5
+[  9] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05445/bcc_lattice_rp_05445.h5
+Time taken: 242.0956573486328 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05445/bcc_lattice_rp_05445.h5
+
+Processing simulation 11 of 310 	3.5%
+Radius: 0.0544698893977879
+Number of voids: 341
+Packing fraction: 0.2308
+Running geo2h5
+[ 10] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05446/bcc_lattice_rp_05446.h5
+Time taken: 241.99099898338318 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05446/bcc_lattice_rp_05446.h5
+
+Processing simulation 12 of 310 	3.9%
+Radius: 0.0544888897777955
+Number of voids: 341
+Packing fraction: 0.2311
+Running geo2h5
+[ 11] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05448/bcc_lattice_rp_05448.h5
+Time taken: 242.6016697883606 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05448/bcc_lattice_rp_05448.h5
+
+Processing simulation 13 of 310 	4.2%
+Radius: 0.0545068901378027
+Number of voids: 341
+Packing fraction: 0.2313
+Running geo2h5
+[ 12] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05450/bcc_lattice_rp_05450.h5
+Time taken: 241.5389699935913 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05450/bcc_lattice_rp_05450.h5
+
+Processing simulation 14 of 310 	4.5%
+Radius: 0.0545258905178103
+Number of voids: 341
+Packing fraction: 0.2316
+Running geo2h5
+[ 13] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05452/bcc_lattice_rp_05452.h5
+Time taken: 239.7417688369751 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05452/bcc_lattice_rp_05452.h5
+
+Processing simulation 15 of 310 	4.8%
+Radius: 0.0545438908778175
+Number of voids: 341
+Packing fraction: 0.2318
+Running geo2h5
+[ 14] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05454/bcc_lattice_rp_05454.h5
+Time taken: 242.5281925201416 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05454/bcc_lattice_rp_05454.h5
+
+Processing simulation 16 of 310 	5.2%
+Radius: 0.0545628912578251
+Number of voids: 341
+Packing fraction: 0.2320
+Running geo2h5
+[ 15] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05456/bcc_lattice_rp_05456.h5
+Time taken: 241.72440242767334 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05456/bcc_lattice_rp_05456.h5
+
+Processing simulation 17 of 310 	5.5%
+Radius: 0.0545808916178323
+Number of voids: 341
+Packing fraction: 0.2323
+Running geo2h5
+[ 16] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05458/bcc_lattice_rp_05458.h5
+Time taken: 241.07553720474243 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05458/bcc_lattice_rp_05458.h5
+
+Processing simulation 18 of 310 	5.8%
+Radius: 0.0545998919978399
+Number of voids: 341
+Packing fraction: 0.2325
+Running geo2h5
+[ 17] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05459/bcc_lattice_rp_05459.h5
+Time taken: 240.90070796012878 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05459/bcc_lattice_rp_05459.h5
+
+Processing simulation 19 of 310 	6.1%
+Radius: 0.0546178923578471
+Number of voids: 341
+Packing fraction: 0.2327
+Running geo2h5
+[ 18] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05461/bcc_lattice_rp_05461.h5
+Time taken: 241.51807022094727 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05461/bcc_lattice_rp_05461.h5
+
+Processing simulation 20 of 310 	6.5%
+Radius: 0.0546368927378547
+Number of voids: 341
+Packing fraction: 0.2330
+Running geo2h5
+[ 19] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05463/bcc_lattice_rp_05463.h5
+Time taken: 242.708411693573 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05463/bcc_lattice_rp_05463.h5
+
+Processing simulation 21 of 310 	6.8%
+Radius: 0.0546548930978619
+Number of voids: 341
+Packing fraction: 0.2332
+Running geo2h5
+[ 20] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05465/bcc_lattice_rp_05465.h5
+Time taken: 240.7217652797699 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05465/bcc_lattice_rp_05465.h5
+
+Processing simulation 22 of 310 	7.1%
+Radius: 0.0546738934778695
+Number of voids: 341
+Packing fraction: 0.2334
+Running geo2h5
+[ 21] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05467/bcc_lattice_rp_05467.h5
+Time taken: 243.55173301696777 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05467/bcc_lattice_rp_05467.h5
+
+Processing simulation 23 of 310 	7.4%
+Radius: 0.0546918938378767
+Number of voids: 341
+Packing fraction: 0.2337
+Running geo2h5
+[ 22] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05469/bcc_lattice_rp_05469.h5
+Time taken: 241.22934556007385 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05469/bcc_lattice_rp_05469.h5
+
+Processing simulation 24 of 310 	7.7%
+Radius: 0.0547108942178843
+Number of voids: 341
+Packing fraction: 0.2339
+Running geo2h5
+[ 23] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05471/bcc_lattice_rp_05471.h5
+Time taken: 241.94553518295288 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05471/bcc_lattice_rp_05471.h5
+
+Processing simulation 25 of 310 	8.1%
+Radius: 0.0547288945778915
+Number of voids: 341
+Packing fraction: 0.2341
+Running geo2h5
+[ 24] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05472/bcc_lattice_rp_05472.h5
+Time taken: 241.1256458759308 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05472/bcc_lattice_rp_05472.h5
+
+Processing simulation 26 of 310 	8.4%
+Radius: 0.0547478949578991
+Number of voids: 341
+Packing fraction: 0.2344
+Running geo2h5
+[ 25] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05474/bcc_lattice_rp_05474.h5
+Time taken: 241.68418526649475 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05474/bcc_lattice_rp_05474.h5
+
+Processing simulation 27 of 310 	8.7%
+Radius: 0.0547658953179063
+Number of voids: 341
+Packing fraction: 0.2346
+Running geo2h5
+[ 26] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05476/bcc_lattice_rp_05476.h5
+Time taken: 243.7577784061432 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05476/bcc_lattice_rp_05476.h5
+
+Processing simulation 28 of 310 	9.0%
+Radius: 0.0547848956979139
+Number of voids: 341
+Packing fraction: 0.2349
+Running geo2h5
+[ 27] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05478/bcc_lattice_rp_05478.h5
+Time taken: 262.1650776863098 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05478/bcc_lattice_rp_05478.h5
+
+Processing simulation 29 of 310 	9.4%
+Radius: 0.0548028960579211
+Number of voids: 341
+Packing fraction: 0.2351
+Running geo2h5
+[ 28] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05480/bcc_lattice_rp_05480.h5
+Time taken: 263.6215286254883 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05480/bcc_lattice_rp_05480.h5
+
+Processing simulation 30 of 310 	9.7%
+Radius: 0.0548218964379287
+Number of voids: 341
+Packing fraction: 0.2353
+Running geo2h5
+[ 29] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05482/bcc_lattice_rp_05482.h5
+Time taken: 256.08588695526123 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05482/bcc_lattice_rp_05482.h5
+
+Processing simulation 31 of 310 	10.0%
+Radius: 0.0548398967979359
+Number of voids: 341
+Packing fraction: 0.2356
+Running geo2h5
+[ 30] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05483/bcc_lattice_rp_05483.h5
+Time taken: 256.2284424304962 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05483/bcc_lattice_rp_05483.h5
+
+Processing simulation 32 of 310 	10.3%
+Radius: 0.0548588971779435
+Number of voids: 341
+Packing fraction: 0.2358
+Running geo2h5
+[ 31] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05485/bcc_lattice_rp_05485.h5
+Time taken: 256.20886874198914 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05485/bcc_lattice_rp_05485.h5
+
+Processing simulation 33 of 310 	10.6%
+Radius: 0.0548768975379507
+Number of voids: 341
+Packing fraction: 0.2361
+Running geo2h5
+[ 32] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05487/bcc_lattice_rp_05487.h5
+Time taken: 256.55041766166687 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05487/bcc_lattice_rp_05487.h5
+
+Processing simulation 34 of 310 	11.0%
+Radius: 0.0548958979179583
+Number of voids: 341
+Packing fraction: 0.2363
+Running geo2h5
+[ 33] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05489/bcc_lattice_rp_05489.h5
+Time taken: 253.55771327018738 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05489/bcc_lattice_rp_05489.h5
+
+Processing simulation 35 of 310 	11.3%
+Radius: 0.0549138982779655
+Number of voids: 341
+Packing fraction: 0.2365
+Running geo2h5
+[ 34] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05491/bcc_lattice_rp_05491.h5
+Time taken: 253.6898844242096 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05491/bcc_lattice_rp_05491.h5
+
+Processing simulation 36 of 310 	11.6%
+Radius: 0.0549328986579731
+Number of voids: 341
+Packing fraction: 0.2368
+Running geo2h5
+[ 35] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05493/bcc_lattice_rp_05493.h5
+Time taken: 255.0522117614746 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05493/bcc_lattice_rp_05493.h5
+
+Processing simulation 37 of 310 	11.9%
+Radius: 0.0549508990179803
+Number of voids: 341
+Packing fraction: 0.2370
+Running geo2h5
+[ 36] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05495/bcc_lattice_rp_05495.h5
+Time taken: 252.3567259311676 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05495/bcc_lattice_rp_05495.h5
+
+Processing simulation 38 of 310 	12.3%
+Radius: 0.0549698993979879
+Number of voids: 341
+Packing fraction: 0.2373
+Running geo2h5
+[ 37] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05496/bcc_lattice_rp_05496.h5
+Time taken: 244.81474256515503 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05496/bcc_lattice_rp_05496.h5
+
+Processing simulation 39 of 310 	12.6%
+Radius: 0.0549878997579951
+Number of voids: 341
+Packing fraction: 0.2375
+Running geo2h5
+[ 38] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05498/bcc_lattice_rp_05498.h5
+Time taken: 252.75458788871765 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05498/bcc_lattice_rp_05498.h5
+
+Processing simulation 40 of 310 	12.9%
+Radius: 0.0550069001380027
+Number of voids: 341
+Packing fraction: 0.2377
+Running geo2h5
+[ 39] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05500/bcc_lattice_rp_05500.h5
+Time taken: 266.2317678928375 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05500/bcc_lattice_rp_05500.h5
+
+Processing simulation 41 of 310 	13.2%
+Radius: 0.0550249004980099
+Number of voids: 341
+Packing fraction: 0.2380
+Running geo2h5
+[ 40] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05502/bcc_lattice_rp_05502.h5
+Time taken: 259.1847012042999 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05502/bcc_lattice_rp_05502.h5
+
+Processing simulation 42 of 310 	13.5%
+Radius: 0.0550439008780175
+Number of voids: 341
+Packing fraction: 0.2382
+Running geo2h5
+[ 41] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05504/bcc_lattice_rp_05504.h5
+Time taken: 261.40470933914185 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05504/bcc_lattice_rp_05504.h5
+
+Processing simulation 43 of 310 	13.9%
+Radius: 0.0550619012380247
+Number of voids: 341
+Packing fraction: 0.2384
+Running geo2h5
+[ 42] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05506/bcc_lattice_rp_05506.h5
+Time taken: 267.9258499145508 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05506/bcc_lattice_rp_05506.h5
+
+Processing simulation 44 of 310 	14.2%
+Radius: 0.0550809016180323
+Number of voids: 341
+Packing fraction: 0.2387
+Running geo2h5
+[ 43] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05508/bcc_lattice_rp_05508.h5
+Time taken: 262.324903011322 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05508/bcc_lattice_rp_05508.h5
+
+Processing simulation 45 of 310 	14.5%
+Radius: 0.0550989019780395
+Number of voids: 341
+Packing fraction: 0.2389
+Running geo2h5
+[ 44] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05509/bcc_lattice_rp_05509.h5
+Time taken: 260.3093247413635 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05509/bcc_lattice_rp_05509.h5
+
+Processing simulation 46 of 310 	14.8%
+Radius: 0.0551179023580471
+Number of voids: 341
+Packing fraction: 0.2392
+Running geo2h5
+[ 45] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05511/bcc_lattice_rp_05511.h5
+Time taken: 257.9092583656311 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05511/bcc_lattice_rp_05511.h5
+
+Processing simulation 47 of 310 	15.2%
+Radius: 0.0551359027180543
+Number of voids: 341
+Packing fraction: 0.2394
+Running geo2h5
+[ 46] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05513/bcc_lattice_rp_05513.h5
+Time taken: 262.2799048423767 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05513/bcc_lattice_rp_05513.h5
+
+Processing simulation 48 of 310 	15.5%
+Radius: 0.0551549030980619
+Number of voids: 341
+Packing fraction: 0.2397
+Running geo2h5
+[ 47] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05515/bcc_lattice_rp_05515.h5
+Time taken: 259.86171865463257 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05515/bcc_lattice_rp_05515.h5
+
+Processing simulation 49 of 310 	15.8%
+Radius: 0.0551729034580691
+Number of voids: 341
+Packing fraction: 0.2399
+Running geo2h5
+[ 48] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05517/bcc_lattice_rp_05517.h5
+Time taken: 263.94262957572937 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05517/bcc_lattice_rp_05517.h5
+
+Processing simulation 50 of 310 	16.1%
+Radius: 0.0551919038380767
+Number of voids: 341
+Packing fraction: 0.2401
+Running geo2h5
+[ 49] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05519/bcc_lattice_rp_05519.h5
+Time taken: 260.39153718948364 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05519/bcc_lattice_rp_05519.h5
+
+Processing simulation 51 of 310 	16.5%
+Radius: 0.0552099041980839
+Number of voids: 341
+Packing fraction: 0.2404
+Running geo2h5
+[ 50] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05520/bcc_lattice_rp_05520.h5
+Time taken: 266.8125813007355 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05520/bcc_lattice_rp_05520.h5
+
+Processing simulation 52 of 310 	16.8%
+Radius: 0.0552289045780915
+Number of voids: 341
+Packing fraction: 0.2406
+Running geo2h5
+[ 51] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05522/bcc_lattice_rp_05522.h5
+Time taken: 255.687926530838 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05522/bcc_lattice_rp_05522.h5
+
+Processing simulation 53 of 310 	17.1%
+Radius: 0.0552469049380987
+Number of voids: 341
+Packing fraction: 0.2409
+Running geo2h5
+[ 52] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05524/bcc_lattice_rp_05524.h5
+Time taken: 256.1179416179657 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05524/bcc_lattice_rp_05524.h5
+
+Processing simulation 54 of 310 	17.4%
+Radius: 0.0552659053181063
+Number of voids: 341
+Packing fraction: 0.2411
+Running geo2h5
+[ 53] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05526/bcc_lattice_rp_05526.h5
+Time taken: 259.82278990745544 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05526/bcc_lattice_rp_05526.h5
+
+Processing simulation 55 of 310 	17.7%
+Radius: 0.0552839056781135
+Number of voids: 341
+Packing fraction: 0.2413
+Running geo2h5
+[ 54] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05528/bcc_lattice_rp_05528.h5
+Time taken: 257.87831449508667 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05528/bcc_lattice_rp_05528.h5
+
+Processing simulation 56 of 310 	18.1%
+Radius: 0.0553029060581211
+Number of voids: 341
+Packing fraction: 0.2416
+Running geo2h5
+[ 55] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05530/bcc_lattice_rp_05530.h5
+Time taken: 260.5631437301636 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05530/bcc_lattice_rp_05530.h5
+
+Processing simulation 57 of 310 	18.4%
+Radius: 0.0553209064181283
+Number of voids: 341
+Packing fraction: 0.2418
+Running geo2h5
+[ 56] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05532/bcc_lattice_rp_05532.h5
+Time taken: 258.04658126831055 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05532/bcc_lattice_rp_05532.h5
+
+Processing simulation 58 of 310 	18.7%
+Radius: 0.0553399067981359
+Number of voids: 341
+Packing fraction: 0.2421
+Running geo2h5
+[ 57] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05533/bcc_lattice_rp_05533.h5
+Time taken: 258.915491104126 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05533/bcc_lattice_rp_05533.h5
+
+Processing simulation 59 of 310 	19.0%
+Radius: 0.0553579071581431
+Number of voids: 341
+Packing fraction: 0.2423
+Running geo2h5
+[ 58] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05535/bcc_lattice_rp_05535.h5
+Time taken: 257.6603400707245 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05535/bcc_lattice_rp_05535.h5
+
+Processing simulation 60 of 310 	19.4%
+Radius: 0.0553769075381507
+Number of voids: 341
+Packing fraction: 0.2426
+Running geo2h5
+[ 59] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05537/bcc_lattice_rp_05537.h5
+Time taken: 259.8622581958771 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05537/bcc_lattice_rp_05537.h5
+
+Processing simulation 61 of 310 	19.7%
+Radius: 0.0553949078981579
+Number of voids: 341
+Packing fraction: 0.2428
+Running geo2h5
+[ 60] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05539/bcc_lattice_rp_05539.h5
+Time taken: 258.4664797782898 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05539/bcc_lattice_rp_05539.h5
+
+Processing simulation 62 of 310 	20.0%
+Radius: 0.0554139082781655
+Number of voids: 341
+Packing fraction: 0.2431
+Running geo2h5
+[ 61] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05541/bcc_lattice_rp_05541.h5
+Time taken: 254.27428531646729 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05541/bcc_lattice_rp_05541.h5
+
+Processing simulation 63 of 310 	20.3%
+Radius: 0.0554319086381727
+Number of voids: 341
+Packing fraction: 0.2433
+Running geo2h5
+[ 62] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05543/bcc_lattice_rp_05543.h5
+Time taken: 254.26751136779785 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05543/bcc_lattice_rp_05543.h5
+
+Processing simulation 64 of 310 	20.6%
+Radius: 0.0554499089981799
+Number of voids: 341
+Packing fraction: 0.2435
+Running geo2h5
+[ 63] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05544/bcc_lattice_rp_05544.h5
+Time taken: 253.19453477859497 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05544/bcc_lattice_rp_05544.h5
+
+Processing simulation 65 of 310 	21.0%
+Radius: 0.0554689093781875
+Number of voids: 341
+Packing fraction: 0.2438
+Running geo2h5
+[ 64] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05546/bcc_lattice_rp_05546.h5
+Time taken: 254.593270778656 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05546/bcc_lattice_rp_05546.h5
+
+Processing simulation 66 of 310 	21.3%
+Radius: 0.0554869097381947
+Number of voids: 341
+Packing fraction: 0.2440
+Running geo2h5
+[ 65] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05548/bcc_lattice_rp_05548.h5
+Time taken: 257.29245615005493 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05548/bcc_lattice_rp_05548.h5
+
+Processing simulation 67 of 310 	21.6%
+Radius: 0.0555059101182023
+Number of voids: 341
+Packing fraction: 0.2443
+Running geo2h5
+[ 66] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05550/bcc_lattice_rp_05550.h5
+Time taken: 260.3128652572632 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05550/bcc_lattice_rp_05550.h5
+
+Processing simulation 68 of 310 	21.9%
+Radius: 0.0555239104782095
+Number of voids: 341
+Packing fraction: 0.2445
+Running geo2h5
+[ 67] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05552/bcc_lattice_rp_05552.h5
+Time taken: 259.3112082481384 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05552/bcc_lattice_rp_05552.h5
+
+Processing simulation 69 of 310 	22.3%
+Radius: 0.0555429108582171
+Number of voids: 341
+Packing fraction: 0.2448
+Running geo2h5
+[ 68] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05554/bcc_lattice_rp_05554.h5
+Time taken: 253.15957403182983 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05554/bcc_lattice_rp_05554.h5
+
+Processing simulation 70 of 310 	22.6%
+Radius: 0.0555609112182243
+Number of voids: 341
+Packing fraction: 0.2450
+Running geo2h5
+[ 69] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05556/bcc_lattice_rp_05556.h5
+Time taken: 245.29854917526245 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05556/bcc_lattice_rp_05556.h5
+
+Processing simulation 71 of 310 	22.9%
+Radius: 0.0555799115982319
+Number of voids: 341
+Packing fraction: 0.2452
+Running geo2h5
+[ 70] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05557/bcc_lattice_rp_05557.h5
+Time taken: 240.79289174079895 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05557/bcc_lattice_rp_05557.h5
+
+Processing simulation 72 of 310 	23.2%
+Radius: 0.0555979119582391
+Number of voids: 341
+Packing fraction: 0.2455
+Running geo2h5
+[ 71] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05559/bcc_lattice_rp_05559.h5
+Time taken: 234.95324993133545 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05559/bcc_lattice_rp_05559.h5
+
+Processing simulation 73 of 310 	23.5%
+Radius: 0.0556169123382467
+Number of voids: 341
+Packing fraction: 0.2457
+Running geo2h5
+[ 72] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05561/bcc_lattice_rp_05561.h5
+Time taken: 235.71285319328308 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05561/bcc_lattice_rp_05561.h5
+
+Processing simulation 74 of 310 	23.9%
+Radius: 0.0556349126982539
+Number of voids: 341
+Packing fraction: 0.2460
+Running geo2h5
+[ 73] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05563/bcc_lattice_rp_05563.h5
+Time taken: 235.04805374145508 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05563/bcc_lattice_rp_05563.h5
+
+Processing simulation 75 of 310 	24.2%
+Radius: 0.0556539130782615
+Number of voids: 341
+Packing fraction: 0.2462
+Running geo2h5
+[ 74] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05565/bcc_lattice_rp_05565.h5
+Time taken: 236.70703864097595 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05565/bcc_lattice_rp_05565.h5
+
+Processing simulation 76 of 310 	24.5%
+Radius: 0.0556719134382687
+Number of voids: 341
+Packing fraction: 0.2465
+Running geo2h5
+[ 75] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05567/bcc_lattice_rp_05567.h5
+Time taken: 237.5049548149109 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05567/bcc_lattice_rp_05567.h5
+
+Processing simulation 77 of 310 	24.8%
+Radius: 0.0556909138182763
+Number of voids: 341
+Packing fraction: 0.2467
+Running geo2h5
+[ 76] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05569/bcc_lattice_rp_05569.h5
+Time taken: 235.0188753604889 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05569/bcc_lattice_rp_05569.h5
+
+Processing simulation 78 of 310 	25.2%
+Radius: 0.0557089141782835
+Number of voids: 341
+Packing fraction: 0.2470
+Running geo2h5
+[ 77] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05570/bcc_lattice_rp_05570.h5
+Time taken: 237.30933618545532 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05570/bcc_lattice_rp_05570.h5
+
+Processing simulation 79 of 310 	25.5%
+Radius: 0.0557279145582911
+Number of voids: 341
+Packing fraction: 0.2472
+Running geo2h5
+[ 78] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05572/bcc_lattice_rp_05572.h5
+Time taken: 234.25287246704102 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05572/bcc_lattice_rp_05572.h5
+
+Processing simulation 80 of 310 	25.8%
+Radius: 0.0557459149182983
+Number of voids: 341
+Packing fraction: 0.2474
+Running geo2h5
+[ 79] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05574/bcc_lattice_rp_05574.h5
+Time taken: 234.04166460037231 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05574/bcc_lattice_rp_05574.h5
+
+Processing simulation 81 of 310 	26.1%
+Radius: 0.0557649152983059
+Number of voids: 341
+Packing fraction: 0.2477
+Running geo2h5
+[ 80] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05576/bcc_lattice_rp_05576.h5
+Time taken: 233.08299922943115 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05576/bcc_lattice_rp_05576.h5
+
+Processing simulation 82 of 310 	26.5%
+Radius: 0.0557829156583131
+Number of voids: 341
+Packing fraction: 0.2479
+Running geo2h5
+[ 81] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05578/bcc_lattice_rp_05578.h5
+Time taken: 234.12984538078308 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05578/bcc_lattice_rp_05578.h5
+
+Processing simulation 83 of 310 	26.8%
+Radius: 0.0558019160383207
+Number of voids: 341
+Packing fraction: 0.2482
+Running geo2h5
+[ 82] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05580/bcc_lattice_rp_05580.h5
+Time taken: 233.05543994903564 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05580/bcc_lattice_rp_05580.h5
+
+Processing simulation 84 of 310 	27.1%
+Radius: 0.0558199163983279
+Number of voids: 341
+Packing fraction: 0.2484
+Running geo2h5
+[ 83] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05581/bcc_lattice_rp_05581.h5
+Time taken: 230.65793538093567 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05581/bcc_lattice_rp_05581.h5
+
+Processing simulation 85 of 310 	27.4%
+Radius: 0.0558389167783355
+Number of voids: 341
+Packing fraction: 0.2487
+Running geo2h5
+[ 84] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05583/bcc_lattice_rp_05583.h5
+Time taken: 231.7226071357727 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05583/bcc_lattice_rp_05583.h5
+
+Processing simulation 86 of 310 	27.7%
+Radius: 0.0558569171383427
+Number of voids: 341
+Packing fraction: 0.2489
+Running geo2h5
+[ 85] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05585/bcc_lattice_rp_05585.h5
+Time taken: 231.64082169532776 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05585/bcc_lattice_rp_05585.h5
+
+Processing simulation 87 of 310 	28.1%
+Radius: 0.0558759175183503
+Number of voids: 341
+Packing fraction: 0.2492
+Running geo2h5
+[ 86] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05587/bcc_lattice_rp_05587.h5
+Time taken: 231.336731672287 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05587/bcc_lattice_rp_05587.h5
+
+Processing simulation 88 of 310 	28.4%
+Radius: 0.0558939178783575
+Number of voids: 341
+Packing fraction: 0.2494
+Running geo2h5
+[ 87] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05589/bcc_lattice_rp_05589.h5
+Time taken: 229.5978763103485 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05589/bcc_lattice_rp_05589.h5
+
+Processing simulation 89 of 310 	28.7%
+Radius: 0.0559129182583651
+Number of voids: 341
+Packing fraction: 0.2497
+Running geo2h5
+[ 88] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05591/bcc_lattice_rp_05591.h5
+Time taken: 229.65984988212585 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05591/bcc_lattice_rp_05591.h5
+
+Processing simulation 90 of 310 	29.0%
+Radius: 0.0559309186183723
+Number of voids: 341
+Packing fraction: 0.2499
+Running geo2h5
+[ 89] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05593/bcc_lattice_rp_05593.h5
+Time taken: 230.67357468605042 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05593/bcc_lattice_rp_05593.h5
+
+Processing simulation 91 of 310 	29.4%
+Radius: 0.0559499189983799
+Number of voids: 341
+Packing fraction: 0.2502
+Running geo2h5
+[ 90] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05594/bcc_lattice_rp_05594.h5
+Time taken: 230.54428601264954 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05594/bcc_lattice_rp_05594.h5
+
+Processing simulation 92 of 310 	29.7%
+Radius: 0.0559679193583871
+Number of voids: 341
+Packing fraction: 0.2504
+Running geo2h5
+[ 91] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05596/bcc_lattice_rp_05596.h5
+Time taken: 230.8878297805786 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05596/bcc_lattice_rp_05596.h5
+
+Processing simulation 93 of 310 	30.0%
+Radius: 0.0559869197383947
+Number of voids: 341
+Packing fraction: 0.2507
+Running geo2h5
+[ 92] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05598/bcc_lattice_rp_05598.h5
+Time taken: 230.2711148262024 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05598/bcc_lattice_rp_05598.h5
+
+Processing simulation 94 of 310 	30.3%
+Radius: 0.0560049200984019
+Number of voids: 341
+Packing fraction: 0.2509
+Running geo2h5
+[ 93] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05600/bcc_lattice_rp_05600.h5
+Time taken: 229.60087823867798 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05600/bcc_lattice_rp_05600.h5
+
+Processing simulation 95 of 310 	30.6%
+Radius: 0.0560239204784095
+Number of voids: 341
+Packing fraction: 0.2512
+Running geo2h5
+[ 94] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05602/bcc_lattice_rp_05602.h5
+Time taken: 228.9784324169159 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05602/bcc_lattice_rp_05602.h5
+
+Processing simulation 96 of 310 	31.0%
+Radius: 0.0560419208384167
+Number of voids: 341
+Packing fraction: 0.2514
+Running geo2h5
+[ 95] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05604/bcc_lattice_rp_05604.h5
+Time taken: 230.09827399253845 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05604/bcc_lattice_rp_05604.h5
+
+Processing simulation 97 of 310 	31.3%
+Radius: 0.0560609212184243
+Number of voids: 341
+Packing fraction: 0.2517
+Running geo2h5
+[ 96] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05606/bcc_lattice_rp_05606.h5
+Time taken: 228.9123020172119 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05606/bcc_lattice_rp_05606.h5
+
+Processing simulation 98 of 310 	31.6%
+Radius: 0.0560789215784315
+Number of voids: 341
+Packing fraction: 0.2519
+Running geo2h5
+[ 97] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05607/bcc_lattice_rp_05607.h5
+Time taken: 229.59782576560974 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05607/bcc_lattice_rp_05607.h5
+
+Processing simulation 99 of 310 	31.9%
+Radius: 0.0560979219584391
+Number of voids: 341
+Packing fraction: 0.2522
+Running geo2h5
+[ 98] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05609/bcc_lattice_rp_05609.h5
+Time taken: 228.88847661018372 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05609/bcc_lattice_rp_05609.h5
+
+Processing simulation 100 of 310 	32.3%
+Radius: 0.0561159223184463
+Number of voids: 341
+Packing fraction: 0.2524
+Running geo2h5
+[ 99] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05611/bcc_lattice_rp_05611.h5
+Time taken: 229.75662684440613 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05611/bcc_lattice_rp_05611.h5
+
+Processing simulation 101 of 310 	32.6%
+Radius: 0.0561349226984539
+Number of voids: 341
+Packing fraction: 0.2527
+Running geo2h5
+[100] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05613/bcc_lattice_rp_05613.h5
+Time taken: 228.59004616737366 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05613/bcc_lattice_rp_05613.h5
+
+Processing simulation 102 of 310 	32.9%
+Radius: 0.0561529230584611
+Number of voids: 341
+Packing fraction: 0.2529
+Running geo2h5
+[101] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05615/bcc_lattice_rp_05615.h5
+Time taken: 228.18806290626526 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05615/bcc_lattice_rp_05615.h5
+
+Processing simulation 103 of 310 	33.2%
+Radius: 0.0561719234384687
+Number of voids: 341
+Packing fraction: 0.2532
+Running geo2h5
+[102] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05617/bcc_lattice_rp_05617.h5
+Time taken: 227.9663269519806 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05617/bcc_lattice_rp_05617.h5
+
+Processing simulation 104 of 310 	33.5%
+Radius: 0.0561899237984759
+Number of voids: 341
+Packing fraction: 0.2534
+Running geo2h5
+[103] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05618/bcc_lattice_rp_05618.h5
+Time taken: 227.35121774673462 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05618/bcc_lattice_rp_05618.h5
+
+Processing simulation 105 of 310 	33.9%
+Radius: 0.0562089241784835
+Number of voids: 341
+Packing fraction: 0.2537
+Running geo2h5
+[104] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05620/bcc_lattice_rp_05620.h5
+Time taken: 228.0107831954956 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05620/bcc_lattice_rp_05620.h5
+
+Processing simulation 106 of 310 	34.2%
+Radius: 0.0562269245384907
+Number of voids: 341
+Packing fraction: 0.2539
+Running geo2h5
+[105] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05622/bcc_lattice_rp_05622.h5
+Time taken: 228.48711490631104 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05622/bcc_lattice_rp_05622.h5
+
+Processing simulation 107 of 310 	34.5%
+Radius: 0.0562459249184983
+Number of voids: 341
+Packing fraction: 0.2542
+Running geo2h5
+[106] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05624/bcc_lattice_rp_05624.h5
+Time taken: 227.1725733280182 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05624/bcc_lattice_rp_05624.h5
+
+Processing simulation 108 of 310 	34.8%
+Radius: 0.0562639252785055
+Number of voids: 341
+Packing fraction: 0.2544
+Running geo2h5
+[107] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05626/bcc_lattice_rp_05626.h5
+Time taken: 229.2937672138214 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05626/bcc_lattice_rp_05626.h5
+
+Processing simulation 109 of 310 	35.2%
+Radius: 0.0562829256585131
+Number of voids: 341
+Packing fraction: 0.2547
+Running geo2h5
+[108] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05628/bcc_lattice_rp_05628.h5
+Time taken: 226.68751192092896 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05628/bcc_lattice_rp_05628.h5
+
+Processing simulation 110 of 310 	35.5%
+Radius: 0.0563009260185203
+Number of voids: 341
+Packing fraction: 0.2549
+Running geo2h5
+[109] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05630/bcc_lattice_rp_05630.h5
+Time taken: 227.3123517036438 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05630/bcc_lattice_rp_05630.h5
+
+Processing simulation 111 of 310 	35.8%
+Radius: 0.0563199263985279
+Number of voids: 341
+Packing fraction: 0.2552
+Running geo2h5
+[110] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05631/bcc_lattice_rp_05631.h5
+Time taken: 227.8311047554016 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05631/bcc_lattice_rp_05631.h5
+
+Processing simulation 112 of 310 	36.1%
+Radius: 0.0563379267585351
+Number of voids: 341
+Packing fraction: 0.2554
+Running geo2h5
+[111] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05633/bcc_lattice_rp_05633.h5
+Time taken: 229.24854016304016 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05633/bcc_lattice_rp_05633.h5
+
+Processing simulation 113 of 310 	36.5%
+Radius: 0.0563569271385427
+Number of voids: 341
+Packing fraction: 0.2557
+Running geo2h5
+[112] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05635/bcc_lattice_rp_05635.h5
+Time taken: 227.49514031410217 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05635/bcc_lattice_rp_05635.h5
+
+Processing simulation 114 of 310 	36.8%
+Radius: 0.0563749274985499
+Number of voids: 341
+Packing fraction: 0.2559
+Running geo2h5
+[113] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05637/bcc_lattice_rp_05637.h5
+Time taken: 226.2850775718689 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05637/bcc_lattice_rp_05637.h5
+
+Processing simulation 115 of 310 	37.1%
+Radius: 0.0563939278785575
+Number of voids: 341
+Packing fraction: 0.2562
+Running geo2h5
+[114] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05639/bcc_lattice_rp_05639.h5
+Time taken: 228.220721244812 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05639/bcc_lattice_rp_05639.h5
+
+Processing simulation 116 of 310 	37.4%
+Radius: 0.0564119282385647
+Number of voids: 341
+Packing fraction: 0.2564
+Running geo2h5
+[115] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05641/bcc_lattice_rp_05641.h5
+Time taken: 225.22126746177673 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05641/bcc_lattice_rp_05641.h5
+
+Processing simulation 117 of 310 	37.7%
+Radius: 0.0564309286185723
+Number of voids: 341
+Packing fraction: 0.2567
+Running geo2h5
+[116] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05643/bcc_lattice_rp_05643.h5
+Time taken: 225.28097891807556 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05643/bcc_lattice_rp_05643.h5
+
+Processing simulation 118 of 310 	38.1%
+Radius: 0.0564489289785795
+Number of voids: 341
+Packing fraction: 0.2569
+Running geo2h5
+[117] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05644/bcc_lattice_rp_05644.h5
+Time taken: 225.62464022636414 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05644/bcc_lattice_rp_05644.h5
+
+Processing simulation 119 of 310 	38.4%
+Radius: 0.0564679293585871
+Number of voids: 341
+Packing fraction: 0.2572
+Running geo2h5
+[118] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05646/bcc_lattice_rp_05646.h5
+Time taken: 226.3271176815033 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05646/bcc_lattice_rp_05646.h5
+
+Processing simulation 120 of 310 	38.7%
+Radius: 0.0564859297185943
+Number of voids: 341
+Packing fraction: 0.2574
+Running geo2h5
+[119] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05648/bcc_lattice_rp_05648.h5
+Time taken: 226.07733488082886 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05648/bcc_lattice_rp_05648.h5
+
+Processing simulation 121 of 310 	39.0%
+Radius: 0.0565049300986019
+Number of voids: 341
+Packing fraction: 0.2577
+Running geo2h5
+[120] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05650/bcc_lattice_rp_05650.h5
+Time taken: 227.31618309020996 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05650/bcc_lattice_rp_05650.h5
+
+Processing simulation 122 of 310 	39.4%
+Radius: 0.0565229304586091
+Number of voids: 341
+Packing fraction: 0.2579
+Running geo2h5
+[121] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05652/bcc_lattice_rp_05652.h5
+Time taken: 228.06866693496704 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05652/bcc_lattice_rp_05652.h5
+
+Processing simulation 123 of 310 	39.7%
+Radius: 0.0565419308386167
+Number of voids: 341
+Packing fraction: 0.2582
+Running geo2h5
+[122] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05654/bcc_lattice_rp_05654.h5
+Time taken: 227.19525265693665 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05654/bcc_lattice_rp_05654.h5
+
+Processing simulation 124 of 310 	40.0%
+Radius: 0.0565599311986239
+Number of voids: 341
+Packing fraction: 0.2584
+Running geo2h5
+[123] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05655/bcc_lattice_rp_05655.h5
+Time taken: 227.39008164405823 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05655/bcc_lattice_rp_05655.h5
+
+Processing simulation 125 of 310 	40.3%
+Radius: 0.0565779315586311
+Number of voids: 341
+Packing fraction: 0.2587
+Running geo2h5
+[124] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05657/bcc_lattice_rp_05657.h5
+Time taken: 226.13993287086487 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05657/bcc_lattice_rp_05657.h5
+
+Processing simulation 126 of 310 	40.6%
+Radius: 0.0565969319386387
+Number of voids: 341
+Packing fraction: 0.2590
+Running geo2h5
+[125] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05659/bcc_lattice_rp_05659.h5
+Time taken: 229.75372171401978 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05659/bcc_lattice_rp_05659.h5
+
+Processing simulation 127 of 310 	41.0%
+Radius: 0.0566149322986459
+Number of voids: 341
+Packing fraction: 0.2592
+Running geo2h5
+[126] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05661/bcc_lattice_rp_05661.h5
+Time taken: 227.01741480827332 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05661/bcc_lattice_rp_05661.h5
+
+Processing simulation 128 of 310 	41.3%
+Radius: 0.0566339326786535
+Number of voids: 341
+Packing fraction: 0.2595
+Running geo2h5
+[127] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05663/bcc_lattice_rp_05663.h5
+Time taken: 226.30743622779846 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05663/bcc_lattice_rp_05663.h5
+
+Processing simulation 129 of 310 	41.6%
+Radius: 0.0566519330386607
+Number of voids: 341
+Packing fraction: 0.2597
+Running geo2h5
+[128] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05665/bcc_lattice_rp_05665.h5
+Time taken: 227.41201281547546 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05665/bcc_lattice_rp_05665.h5
+
+Processing simulation 130 of 310 	41.9%
+Radius: 0.0566709334186683
+Number of voids: 341
+Packing fraction: 0.2600
+Running geo2h5
+[129] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05667/bcc_lattice_rp_05667.h5
+Time taken: 226.93628573417664 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05667/bcc_lattice_rp_05667.h5
+
+Processing simulation 131 of 310 	42.3%
+Radius: 0.0566889337786755
+Number of voids: 341
+Packing fraction: 0.2602
+Running geo2h5
+[130] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05668/bcc_lattice_rp_05668.h5
+Time taken: 226.4978563785553 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05668/bcc_lattice_rp_05668.h5
+
+Processing simulation 132 of 310 	42.6%
+Radius: 0.0567079341586831
+Number of voids: 341
+Packing fraction: 0.2605
+Running geo2h5
+[131] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05670/bcc_lattice_rp_05670.h5
+Time taken: 226.08698105812073 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05670/bcc_lattice_rp_05670.h5
+
+Processing simulation 133 of 310 	42.9%
+Radius: 0.0567259345186903
+Number of voids: 341
+Packing fraction: 0.2607
+Running geo2h5
+[132] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05672/bcc_lattice_rp_05672.h5
+Time taken: 227.58665204048157 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05672/bcc_lattice_rp_05672.h5
+
+Processing simulation 134 of 310 	43.2%
+Radius: 0.0567449348986979
+Number of voids: 341
+Packing fraction: 0.2610
+Running geo2h5
+[133] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05674/bcc_lattice_rp_05674.h5
+Time taken: 225.5064570903778 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05674/bcc_lattice_rp_05674.h5
+
+Processing simulation 135 of 310 	43.5%
+Radius: 0.0567629352587051
+Number of voids: 341
+Packing fraction: 0.2612
+Running geo2h5
+[134] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05676/bcc_lattice_rp_05676.h5
+Time taken: 224.74951219558716 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05676/bcc_lattice_rp_05676.h5
+
+Processing simulation 136 of 310 	43.9%
+Radius: 0.0567819356387127
+Number of voids: 341
+Packing fraction: 0.2615
+Running geo2h5
+[135] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05678/bcc_lattice_rp_05678.h5
+Time taken: 227.05458092689514 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05678/bcc_lattice_rp_05678.h5
+
+Processing simulation 137 of 310 	44.2%
+Radius: 0.0567999359987199
+Number of voids: 341
+Packing fraction: 0.2617
+Running geo2h5
+[136] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05679/bcc_lattice_rp_05679.h5
+Time taken: 226.31100940704346 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05679/bcc_lattice_rp_05679.h5
+
+Processing simulation 138 of 310 	44.5%
+Radius: 0.0568189363787275
+Number of voids: 341
+Packing fraction: 0.2620
+Running geo2h5
+[137] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05681/bcc_lattice_rp_05681.h5
+Time taken: 225.94873309135437 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05681/bcc_lattice_rp_05681.h5
+
+Processing simulation 139 of 310 	44.8%
+Radius: 0.0568369367387347
+Number of voids: 341
+Packing fraction: 0.2623
+Running geo2h5
+[138] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05683/bcc_lattice_rp_05683.h5
+Time taken: 226.23076581954956 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05683/bcc_lattice_rp_05683.h5
+
+Processing simulation 140 of 310 	45.2%
+Radius: 0.0568559371187423
+Number of voids: 341
+Packing fraction: 0.2625
+Running geo2h5
+[139] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05685/bcc_lattice_rp_05685.h5
+Time taken: 223.8880476951599 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05685/bcc_lattice_rp_05685.h5
+
+Processing simulation 141 of 310 	45.5%
+Radius: 0.0568739374787495
+Number of voids: 341
+Packing fraction: 0.2628
+Running geo2h5
+[140] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05687/bcc_lattice_rp_05687.h5
+Time taken: 225.96786093711853 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05687/bcc_lattice_rp_05687.h5
+
+Processing simulation 142 of 310 	45.8%
+Radius: 0.0568929378587571
+Number of voids: 341
+Packing fraction: 0.2630
+Running geo2h5
+[141] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05689/bcc_lattice_rp_05689.h5
+Time taken: 226.00391292572021 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05689/bcc_lattice_rp_05689.h5
+
+Processing simulation 143 of 310 	46.1%
+Radius: 0.0569109382187643
+Number of voids: 341
+Packing fraction: 0.2633
+Running geo2h5
+[142] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05691/bcc_lattice_rp_05691.h5
+Time taken: 230.47405815124512 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05691/bcc_lattice_rp_05691.h5
+
+Processing simulation 144 of 310 	46.5%
+Radius: 0.0569299385987719
+Number of voids: 341
+Packing fraction: 0.2636
+Running geo2h5
+[143] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05692/bcc_lattice_rp_05692.h5
+Time taken: 237.7748987674713 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05692/bcc_lattice_rp_05692.h5
+
+Processing simulation 145 of 310 	46.8%
+Radius: 0.0569479389587791
+Number of voids: 341
+Packing fraction: 0.2638
+Running geo2h5
+[144] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05694/bcc_lattice_rp_05694.h5
+Time taken: 235.6675989627838 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05694/bcc_lattice_rp_05694.h5
+
+Processing simulation 146 of 310 	47.1%
+Radius: 0.0569669393387867
+Number of voids: 341
+Packing fraction: 0.2641
+Running geo2h5
+[145] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05696/bcc_lattice_rp_05696.h5
+Time taken: 240.8591365814209 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05696/bcc_lattice_rp_05696.h5
+
+Processing simulation 147 of 310 	47.4%
+Radius: 0.0569849396987939
+Number of voids: 341
+Packing fraction: 0.2643
+Running geo2h5
+[146] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05698/bcc_lattice_rp_05698.h5
+Time taken: 241.8012957572937 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05698/bcc_lattice_rp_05698.h5
+
+Processing simulation 148 of 310 	47.7%
+Radius: 0.0570039400788015
+Number of voids: 341
+Packing fraction: 0.2646
+Running geo2h5
+[147] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05700/bcc_lattice_rp_05700.h5
+Time taken: 245.06811666488647 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05700/bcc_lattice_rp_05700.h5
+
+Processing simulation 149 of 310 	48.1%
+Radius: 0.0570219404388087
+Number of voids: 341
+Packing fraction: 0.2648
+Running geo2h5
+[148] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05702/bcc_lattice_rp_05702.h5
+Time taken: 247.64300560951233 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05702/bcc_lattice_rp_05702.h5
+
+Processing simulation 150 of 310 	48.4%
+Radius: 0.0570409408188163
+Number of voids: 341
+Packing fraction: 0.2651
+Running geo2h5
+[149] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05704/bcc_lattice_rp_05704.h5
+Time taken: 247.99373483657837 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05704/bcc_lattice_rp_05704.h5
+
+Processing simulation 151 of 310 	48.7%
+Radius: 0.0570589411788235
+Number of voids: 341
+Packing fraction: 0.2653
+Running geo2h5
+[150] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05705/bcc_lattice_rp_05705.h5
+Time taken: 241.28536200523376 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05705/bcc_lattice_rp_05705.h5
+
+Processing simulation 152 of 310 	49.0%
+Radius: 0.0570779415588311
+Number of voids: 341
+Packing fraction: 0.2656
+Running geo2h5
+[151] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05707/bcc_lattice_rp_05707.h5
+Time taken: 247.38639426231384 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05707/bcc_lattice_rp_05707.h5
+
+Processing simulation 153 of 310 	49.4%
+Radius: 0.0570959419188383
+Number of voids: 341
+Packing fraction: 0.2659
+Running geo2h5
+[152] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05709/bcc_lattice_rp_05709.h5
+Time taken: 247.74457955360413 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05709/bcc_lattice_rp_05709.h5
+
+Processing simulation 154 of 310 	49.7%
+Radius: 0.0571149422988459
+Number of voids: 341
+Packing fraction: 0.2661
+Running geo2h5
+[153] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05711/bcc_lattice_rp_05711.h5
+Time taken: 237.9205777645111 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05711/bcc_lattice_rp_05711.h5
+
+Processing simulation 155 of 310 	50.0%
+Radius: 0.0571329426588531
+Number of voids: 341
+Packing fraction: 0.2664
+Running geo2h5
+[154] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05713/bcc_lattice_rp_05713.h5
+Time taken: 247.3946852684021 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05713/bcc_lattice_rp_05713.h5
+
+Processing simulation 156 of 310 	50.3%
+Radius: 0.0571519430388607
+Number of voids: 341
+Packing fraction: 0.2666
+Running geo2h5
+[155] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05715/bcc_lattice_rp_05715.h5
+Time taken: 246.6754550933838 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05715/bcc_lattice_rp_05715.h5
+
+Processing simulation 157 of 310 	50.6%
+Radius: 0.0571699433988679
+Number of voids: 341
+Packing fraction: 0.2669
+Running geo2h5
+[156] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05716/bcc_lattice_rp_05716.h5
+Time taken: 242.29171633720398 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05716/bcc_lattice_rp_05716.h5
+
+Processing simulation 158 of 310 	51.0%
+Radius: 0.0571889437788755
+Number of voids: 341
+Packing fraction: 0.2672
+Running geo2h5
+[157] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05718/bcc_lattice_rp_05718.h5
+Time taken: 241.19043731689453 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05718/bcc_lattice_rp_05718.h5
+
+Processing simulation 159 of 310 	51.3%
+Radius: 0.0572069441388827
+Number of voids: 341
+Packing fraction: 0.2674
+Running geo2h5
+[158] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05720/bcc_lattice_rp_05720.h5
+Time taken: 242.32753682136536 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05720/bcc_lattice_rp_05720.h5
+
+Processing simulation 160 of 310 	51.6%
+Radius: 0.0572259445188903
+Number of voids: 341
+Packing fraction: 0.2677
+Running geo2h5
+[159] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05722/bcc_lattice_rp_05722.h5
+Time taken: 246.54381775856018 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05722/bcc_lattice_rp_05722.h5
+
+Processing simulation 161 of 310 	51.9%
+Radius: 0.0572439448788975
+Number of voids: 341
+Packing fraction: 0.2679
+Running geo2h5
+[160] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05724/bcc_lattice_rp_05724.h5
+Time taken: 244.25798106193542 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05724/bcc_lattice_rp_05724.h5
+
+Processing simulation 162 of 310 	52.3%
+Radius: 0.0572629452589051
+Number of voids: 341
+Packing fraction: 0.2682
+Running geo2h5
+[161] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05726/bcc_lattice_rp_05726.h5
+Time taken: 244.0965280532837 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05726/bcc_lattice_rp_05726.h5
+
+Processing simulation 163 of 310 	52.6%
+Radius: 0.0572809456189123
+Number of voids: 341
+Packing fraction: 0.2685
+Running geo2h5
+[162] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05728/bcc_lattice_rp_05728.h5
+Time taken: 243.77977800369263 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05728/bcc_lattice_rp_05728.h5
+
+Processing simulation 164 of 310 	52.9%
+Radius: 0.0572999459989199
+Number of voids: 341
+Packing fraction: 0.2687
+Running geo2h5
+[163] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05729/bcc_lattice_rp_05729.h5
+Time taken: 240.96300053596497 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05729/bcc_lattice_rp_05729.h5
+
+Processing simulation 165 of 310 	53.2%
+Radius: 0.0573179463589271
+Number of voids: 341
+Packing fraction: 0.2690
+Running geo2h5
+[164] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05731/bcc_lattice_rp_05731.h5
+Time taken: 241.4977867603302 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05731/bcc_lattice_rp_05731.h5
+
+Processing simulation 166 of 310 	53.5%
+Radius: 0.0573369467389347
+Number of voids: 341
+Packing fraction: 0.2692
+Running geo2h5
+[165] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05733/bcc_lattice_rp_05733.h5
+Time taken: 256.6962368488312 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05733/bcc_lattice_rp_05733.h5
+
+Processing simulation 167 of 310 	53.9%
+Radius: 0.0573549470989419
+Number of voids: 341
+Packing fraction: 0.2695
+Running geo2h5
+[166] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05735/bcc_lattice_rp_05735.h5
+Time taken: 258.88345289230347 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05735/bcc_lattice_rp_05735.h5
+
+Processing simulation 168 of 310 	54.2%
+Radius: 0.0573739474789495
+Number of voids: 341
+Packing fraction: 0.2698
+Running geo2h5
+[167] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05737/bcc_lattice_rp_05737.h5
+Time taken: 255.47947001457214 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05737/bcc_lattice_rp_05737.h5
+
+Processing simulation 169 of 310 	54.5%
+Radius: 0.0573919478389567
+Number of voids: 341
+Packing fraction: 0.2700
+Running geo2h5
+[168] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05739/bcc_lattice_rp_05739.h5
+Time taken: 254.48430109024048 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05739/bcc_lattice_rp_05739.h5
+
+Processing simulation 170 of 310 	54.8%
+Radius: 0.0574109482189643
+Number of voids: 341
+Packing fraction: 0.2703
+Running geo2h5
+[169] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05741/bcc_lattice_rp_05741.h5
+Time taken: 256.34199142456055 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05741/bcc_lattice_rp_05741.h5
+
+Processing simulation 171 of 310 	55.2%
+Radius: 0.0574289485789715
+Number of voids: 341
+Packing fraction: 0.2705
+Running geo2h5
+[170] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05742/bcc_lattice_rp_05742.h5
+Time taken: 253.4994020462036 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05742/bcc_lattice_rp_05742.h5
+
+Processing simulation 172 of 310 	55.5%
+Radius: 0.0574479489589791
+Number of voids: 341
+Packing fraction: 0.2708
+Running geo2h5
+[171] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05744/bcc_lattice_rp_05744.h5
+Time taken: 253.62088441848755 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05744/bcc_lattice_rp_05744.h5
+
+Processing simulation 173 of 310 	55.8%
+Radius: 0.0574659493189863
+Number of voids: 341
+Packing fraction: 0.2711
+Running geo2h5
+[172] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05746/bcc_lattice_rp_05746.h5
+Time taken: 255.73382782936096 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05746/bcc_lattice_rp_05746.h5
+
+Processing simulation 174 of 310 	56.1%
+Radius: 0.0574849496989939
+Number of voids: 341
+Packing fraction: 0.2713
+Running geo2h5
+[173] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05748/bcc_lattice_rp_05748.h5
+Time taken: 255.67610669136047 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05748/bcc_lattice_rp_05748.h5
+
+Processing simulation 175 of 310 	56.5%
+Radius: 0.0575029500590011
+Number of voids: 341
+Packing fraction: 0.2716
+Running geo2h5
+[174] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05750/bcc_lattice_rp_05750.h5
+Time taken: 248.58172369003296 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05750/bcc_lattice_rp_05750.h5
+
+Processing simulation 176 of 310 	56.8%
+Radius: 0.0575219504390087
+Number of voids: 341
+Packing fraction: 0.2719
+Running geo2h5
+[175] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05752/bcc_lattice_rp_05752.h5
+Time taken: 252.8748083114624 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05752/bcc_lattice_rp_05752.h5
+
+Processing simulation 177 of 310 	57.1%
+Radius: 0.0575399507990159
+Number of voids: 341
+Packing fraction: 0.2721
+Running geo2h5
+[176] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05753/bcc_lattice_rp_05753.h5
+Time taken: 253.68171572685242 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05753/bcc_lattice_rp_05753.h5
+
+Processing simulation 178 of 310 	57.4%
+Radius: 0.0575589511790235
+Number of voids: 341
+Packing fraction: 0.2724
+Running geo2h5
+[177] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05755/bcc_lattice_rp_05755.h5
+Time taken: 259.2708213329315 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05755/bcc_lattice_rp_05755.h5
+
+Processing simulation 179 of 310 	57.7%
+Radius: 0.0575769515390307
+Number of voids: 341
+Packing fraction: 0.2726
+Running geo2h5
+[178] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05757/bcc_lattice_rp_05757.h5
+Time taken: 250.9723002910614 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05757/bcc_lattice_rp_05757.h5
+
+Processing simulation 180 of 310 	58.1%
+Radius: 0.0575959519190383
+Number of voids: 341
+Packing fraction: 0.2729
+Running geo2h5
+[179] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05759/bcc_lattice_rp_05759.h5
+Time taken: 247.2426745891571 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05759/bcc_lattice_rp_05759.h5
+
+Processing simulation 181 of 310 	58.4%
+Radius: 0.0576139522790455
+Number of voids: 341
+Packing fraction: 0.2732
+Running geo2h5
+[180] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05761/bcc_lattice_rp_05761.h5
+Time taken: 259.4562683105469 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05761/bcc_lattice_rp_05761.h5
+
+Processing simulation 182 of 310 	58.7%
+Radius: 0.0576329526590531
+Number of voids: 341
+Packing fraction: 0.2734
+Running geo2h5
+[181] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05763/bcc_lattice_rp_05763.h5
+Time taken: 254.3274440765381 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05763/bcc_lattice_rp_05763.h5
+
+Processing simulation 183 of 310 	59.0%
+Radius: 0.0576509530190603
+Number of voids: 341
+Packing fraction: 0.2737
+Running geo2h5
+[182] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05765/bcc_lattice_rp_05765.h5
+Time taken: 262.4287440776825 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05765/bcc_lattice_rp_05765.h5
+
+Processing simulation 184 of 310 	59.4%
+Radius: 0.0576699533990679
+Number of voids: 341
+Packing fraction: 0.2740
+Running geo2h5
+[183] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05766/bcc_lattice_rp_05766.h5
+Time taken: 251.6568365097046 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05766/bcc_lattice_rp_05766.h5
+
+Processing simulation 185 of 310 	59.7%
+Radius: 0.0576879537590751
+Number of voids: 341
+Packing fraction: 0.2742
+Running geo2h5
+[184] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05768/bcc_lattice_rp_05768.h5
+Time taken: 252.98893451690674 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05768/bcc_lattice_rp_05768.h5
+
+Processing simulation 186 of 310 	60.0%
+Radius: 0.0577069541390827
+Number of voids: 341
+Packing fraction: 0.2745
+Running geo2h5
+[185] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05770/bcc_lattice_rp_05770.h5
+Time taken: 252.7294623851776 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05770/bcc_lattice_rp_05770.h5
+
+Processing simulation 187 of 310 	60.3%
+Radius: 0.0577249544990899
+Number of voids: 341
+Packing fraction: 0.2747
+Running geo2h5
+[186] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05772/bcc_lattice_rp_05772.h5
+Time taken: 252.07340288162231 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05772/bcc_lattice_rp_05772.h5
+
+Processing simulation 188 of 310 	60.6%
+Radius: 0.0577429548590971
+Number of voids: 341
+Packing fraction: 0.2750
+Running geo2h5
+[187] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05774/bcc_lattice_rp_05774.h5
+Time taken: 247.5389473438263 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05774/bcc_lattice_rp_05774.h5
+
+Processing simulation 189 of 310 	61.0%
+Radius: 0.0577619552391047
+Number of voids: 341
+Packing fraction: 0.2753
+Running geo2h5
+[188] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05776/bcc_lattice_rp_05776.h5
+Time taken: 249.99811458587646 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05776/bcc_lattice_rp_05776.h5
+
+Processing simulation 190 of 310 	61.3%
+Radius: 0.0577799555991119
+Number of voids: 341
+Packing fraction: 0.2755
+Running geo2h5
+[189] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05777/bcc_lattice_rp_05777.h5
+Time taken: 243.98868131637573 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05777/bcc_lattice_rp_05777.h5
+
+Processing simulation 191 of 310 	61.6%
+Radius: 0.0577989559791195
+Number of voids: 341
+Packing fraction: 0.2758
+Running geo2h5
+[190] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05779/bcc_lattice_rp_05779.h5
+Time taken: 248.44073700904846 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05779/bcc_lattice_rp_05779.h5
+
+Processing simulation 192 of 310 	61.9%
+Radius: 0.0578169563391267
+Number of voids: 341
+Packing fraction: 0.2761
+Running geo2h5
+[191] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05781/bcc_lattice_rp_05781.h5
+Time taken: 249.10173654556274 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05781/bcc_lattice_rp_05781.h5
+
+Processing simulation 193 of 310 	62.3%
+Radius: 0.0578359567191343
+Number of voids: 341
+Packing fraction: 0.2763
+Running geo2h5
+[192] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05783/bcc_lattice_rp_05783.h5
+Time taken: 244.94596242904663 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05783/bcc_lattice_rp_05783.h5
+
+Processing simulation 194 of 310 	62.6%
+Radius: 0.0578539570791415
+Number of voids: 341
+Packing fraction: 0.2766
+Running geo2h5
+[193] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05785/bcc_lattice_rp_05785.h5
+Time taken: 248.4685983657837 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05785/bcc_lattice_rp_05785.h5
+
+Processing simulation 195 of 310 	62.9%
+Radius: 0.0578729574591491
+Number of voids: 341
+Packing fraction: 0.2769
+Running geo2h5
+[194] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05787/bcc_lattice_rp_05787.h5
+Time taken: 246.5207347869873 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05787/bcc_lattice_rp_05787.h5
+
+Processing simulation 196 of 310 	63.2%
+Radius: 0.0578909578191563
+Number of voids: 341
+Packing fraction: 0.2771
+Running geo2h5
+[195] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05789/bcc_lattice_rp_05789.h5
+Time taken: 250.99984765052795 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05789/bcc_lattice_rp_05789.h5
+
+Processing simulation 197 of 310 	63.5%
+Radius: 0.0579099581991639
+Number of voids: 341
+Packing fraction: 0.2774
+Running geo2h5
+[196] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05790/bcc_lattice_rp_05790.h5
+Time taken: 245.05405974388123 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05790/bcc_lattice_rp_05790.h5
+
+Processing simulation 198 of 310 	63.9%
+Radius: 0.0579279585591711
+Number of voids: 341
+Packing fraction: 0.2777
+Running geo2h5
+[197] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05792/bcc_lattice_rp_05792.h5
+Time taken: 248.46451783180237 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05792/bcc_lattice_rp_05792.h5
+
+Processing simulation 199 of 310 	64.2%
+Radius: 0.0579469589391787
+Number of voids: 341
+Packing fraction: 0.2779
+Running geo2h5
+[198] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05794/bcc_lattice_rp_05794.h5
+Time taken: 249.49786043167114 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05794/bcc_lattice_rp_05794.h5
+
+Processing simulation 200 of 310 	64.5%
+Radius: 0.0579649592991859
+Number of voids: 341
+Packing fraction: 0.2782
+Running geo2h5
+[199] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05796/bcc_lattice_rp_05796.h5
+Time taken: 245.00964331626892 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05796/bcc_lattice_rp_05796.h5
+
+Processing simulation 201 of 310 	64.8%
+Radius: 0.0579839596791935
+Number of voids: 341
+Packing fraction: 0.2785
+Running geo2h5
+[200] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05798/bcc_lattice_rp_05798.h5
+Time taken: 248.09821724891663 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05798/bcc_lattice_rp_05798.h5
+
+Processing simulation 202 of 310 	65.2%
+Radius: 0.0580019600392007
+Number of voids: 341
+Packing fraction: 0.2787
+Running geo2h5
+[201] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05800/bcc_lattice_rp_05800.h5
+Time taken: 241.40655755996704 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05800/bcc_lattice_rp_05800.h5
+
+Processing simulation 203 of 310 	65.5%
+Radius: 0.0580209604192083
+Number of voids: 341
+Packing fraction: 0.2790
+Running geo2h5
+[202] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05802/bcc_lattice_rp_05802.h5
+Time taken: 244.76235556602478 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05802/bcc_lattice_rp_05802.h5
+
+Processing simulation 204 of 310 	65.8%
+Radius: 0.0580389607792155
+Number of voids: 341
+Packing fraction: 0.2793
+Running geo2h5
+[203] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05803/bcc_lattice_rp_05803.h5
+Time taken: 248.21725296974182 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05803/bcc_lattice_rp_05803.h5
+
+Processing simulation 205 of 310 	66.1%
+Radius: 0.0580579611592231
+Number of voids: 341
+Packing fraction: 0.2795
+Running geo2h5
+[204] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05805/bcc_lattice_rp_05805.h5
+Time taken: 255.53998041152954 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05805/bcc_lattice_rp_05805.h5
+
+Processing simulation 206 of 310 	66.5%
+Radius: 0.0580759615192303
+Number of voids: 341
+Packing fraction: 0.2798
+Running geo2h5
+[205] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05807/bcc_lattice_rp_05807.h5
+Time taken: 250.72704124450684 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05807/bcc_lattice_rp_05807.h5
+
+Processing simulation 207 of 310 	66.8%
+Radius: 0.0580949618992379
+Number of voids: 341
+Packing fraction: 0.2801
+Running geo2h5
+[206] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05809/bcc_lattice_rp_05809.h5
+Time taken: 250.25370073318481 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05809/bcc_lattice_rp_05809.h5
+
+Processing simulation 208 of 310 	67.1%
+Radius: 0.0581129622592451
+Number of voids: 341
+Packing fraction: 0.2803
+Running geo2h5
+[207] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05811/bcc_lattice_rp_05811.h5
+Time taken: 247.70403933525085 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05811/bcc_lattice_rp_05811.h5
+
+Processing simulation 209 of 310 	67.4%
+Radius: 0.0581319626392527
+Number of voids: 341
+Packing fraction: 0.2806
+Running geo2h5
+[208] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05813/bcc_lattice_rp_05813.h5
+Time taken: 246.65196633338928 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05813/bcc_lattice_rp_05813.h5
+
+Processing simulation 210 of 310 	67.7%
+Radius: 0.0581499629992599
+Number of voids: 341
+Packing fraction: 0.2809
+Running geo2h5
+[209] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05814/bcc_lattice_rp_05814.h5
+Time taken: 240.04500579833984 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05814/bcc_lattice_rp_05814.h5
+
+Processing simulation 211 of 310 	68.1%
+Radius: 0.0581689633792675
+Number of voids: 341
+Packing fraction: 0.2811
+Running geo2h5
+[210] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05816/bcc_lattice_rp_05816.h5
+Time taken: 247.43251276016235 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05816/bcc_lattice_rp_05816.h5
+
+Processing simulation 212 of 310 	68.4%
+Radius: 0.0581869637392747
+Number of voids: 341
+Packing fraction: 0.2814
+Running geo2h5
+[211] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05818/bcc_lattice_rp_05818.h5
+Time taken: 245.44864225387573 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05818/bcc_lattice_rp_05818.h5
+
+Processing simulation 213 of 310 	68.7%
+Radius: 0.0582059641192823
+Number of voids: 341
+Packing fraction: 0.2817
+Running geo2h5
+[212] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05820/bcc_lattice_rp_05820.h5
+Time taken: 247.12867736816406 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05820/bcc_lattice_rp_05820.h5
+
+Processing simulation 214 of 310 	69.0%
+Radius: 0.0582239644792895
+Number of voids: 341
+Packing fraction: 0.2819
+Running geo2h5
+[213] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05822/bcc_lattice_rp_05822.h5
+Time taken: 249.4553337097168 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05822/bcc_lattice_rp_05822.h5
+
+Processing simulation 215 of 310 	69.4%
+Radius: 0.0582429648592971
+Number of voids: 341
+Packing fraction: 0.2822
+Running geo2h5
+[214] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05824/bcc_lattice_rp_05824.h5
+Time taken: 256.8865203857422 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05824/bcc_lattice_rp_05824.h5
+
+Processing simulation 216 of 310 	69.7%
+Radius: 0.0582609652193043
+Number of voids: 341
+Packing fraction: 0.2825
+Running geo2h5
+[215] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05826/bcc_lattice_rp_05826.h5
+Time taken: 248.0506076812744 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05826/bcc_lattice_rp_05826.h5
+
+Processing simulation 217 of 310 	70.0%
+Radius: 0.0582799655993119
+Number of voids: 341
+Packing fraction: 0.2827
+Running geo2h5
+[216] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05827/bcc_lattice_rp_05827.h5
+Time taken: 251.94594717025757 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05827/bcc_lattice_rp_05827.h5
+
+Processing simulation 218 of 310 	70.3%
+Radius: 0.0582979659593191
+Number of voids: 341
+Packing fraction: 0.2830
+Running geo2h5
+[217] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05829/bcc_lattice_rp_05829.h5
+Time taken: 239.8789186477661 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05829/bcc_lattice_rp_05829.h5
+
+Processing simulation 219 of 310 	70.6%
+Radius: 0.0583169663393267
+Number of voids: 341
+Packing fraction: 0.2833
+Running geo2h5
+[218] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05831/bcc_lattice_rp_05831.h5
+Time taken: 242.3765904903412 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05831/bcc_lattice_rp_05831.h5
+
+Processing simulation 220 of 310 	71.0%
+Radius: 0.0583349666993339
+Number of voids: 341
+Packing fraction: 0.2836
+Running geo2h5
+[219] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05833/bcc_lattice_rp_05833.h5
+Time taken: 249.86878776550293 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05833/bcc_lattice_rp_05833.h5
+
+Processing simulation 221 of 310 	71.3%
+Radius: 0.0583539670793415
+Number of voids: 341
+Packing fraction: 0.2838
+Running geo2h5
+[220] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05835/bcc_lattice_rp_05835.h5
+Time taken: 247.1378366947174 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05835/bcc_lattice_rp_05835.h5
+
+Processing simulation 222 of 310 	71.6%
+Radius: 0.0583719674393487
+Number of voids: 341
+Packing fraction: 0.2841
+Running geo2h5
+[221] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05837/bcc_lattice_rp_05837.h5
+Time taken: 246.27147221565247 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05837/bcc_lattice_rp_05837.h5
+
+Processing simulation 223 of 310 	71.9%
+Radius: 0.0583909678193563
+Number of voids: 341
+Packing fraction: 0.2844
+Running geo2h5
+[222] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05839/bcc_lattice_rp_05839.h5
+Time taken: 244.50862312316895 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05839/bcc_lattice_rp_05839.h5
+
+Processing simulation 224 of 310 	72.3%
+Radius: 0.0584089681793635
+Number of voids: 341
+Packing fraction: 0.2846
+Running geo2h5
+[223] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05840/bcc_lattice_rp_05840.h5
+Time taken: 246.84721565246582 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05840/bcc_lattice_rp_05840.h5
+
+Processing simulation 225 of 310 	72.6%
+Radius: 0.0584279685593711
+Number of voids: 341
+Packing fraction: 0.2849
+Running geo2h5
+[224] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05842/bcc_lattice_rp_05842.h5
+Time taken: 242.06073713302612 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05842/bcc_lattice_rp_05842.h5
+
+Processing simulation 226 of 310 	72.9%
+Radius: 0.0584459689193783
+Number of voids: 341
+Packing fraction: 0.2852
+Running geo2h5
+[225] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05844/bcc_lattice_rp_05844.h5
+Time taken: 253.6070146560669 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05844/bcc_lattice_rp_05844.h5
+
+Processing simulation 227 of 310 	73.2%
+Radius: 0.0584649692993859
+Number of voids: 341
+Packing fraction: 0.2855
+Running geo2h5
+[226] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05846/bcc_lattice_rp_05846.h5
+Time taken: 239.2904613018036 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05846/bcc_lattice_rp_05846.h5
+
+Processing simulation 228 of 310 	73.5%
+Radius: 0.0584829696593931
+Number of voids: 341
+Packing fraction: 0.2857
+Running geo2h5
+[227] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05848/bcc_lattice_rp_05848.h5
+Time taken: 249.23003268241882 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05848/bcc_lattice_rp_05848.h5
+
+Processing simulation 229 of 310 	73.9%
+Radius: 0.0585019700394007
+Number of voids: 341
+Packing fraction: 0.2860
+Running geo2h5
+[228] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05850/bcc_lattice_rp_05850.h5
+Time taken: 246.09073972702026 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05850/bcc_lattice_rp_05850.h5
+
+Processing simulation 230 of 310 	74.2%
+Radius: 0.0585199703994079
+Number of voids: 341
+Packing fraction: 0.2863
+Running geo2h5
+[229] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05851/bcc_lattice_rp_05851.h5
+Time taken: 248.83628153800964 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05851/bcc_lattice_rp_05851.h5
+
+Processing simulation 231 of 310 	74.5%
+Radius: 0.0585389707794155
+Number of voids: 341
+Packing fraction: 0.2865
+Running geo2h5
+[230] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05853/bcc_lattice_rp_05853.h5
+Time taken: 247.3881003856659 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05853/bcc_lattice_rp_05853.h5
+
+Processing simulation 232 of 310 	74.8%
+Radius: 0.0585569711394227
+Number of voids: 341
+Packing fraction: 0.2868
+Running geo2h5
+[231] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05855/bcc_lattice_rp_05855.h5
+Time taken: 239.31161403656006 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05855/bcc_lattice_rp_05855.h5
+
+Processing simulation 233 of 310 	75.2%
+Radius: 0.0585759715194303
+Number of voids: 341
+Packing fraction: 0.2871
+Running geo2h5
+[232] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05857/bcc_lattice_rp_05857.h5
+Time taken: 246.53199934959412 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05857/bcc_lattice_rp_05857.h5
+
+Processing simulation 234 of 310 	75.5%
+Radius: 0.0585939718794375
+Number of voids: 341
+Packing fraction: 0.2873
+Running geo2h5
+[233] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05859/bcc_lattice_rp_05859.h5
+Time taken: 245.43154191970825 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05859/bcc_lattice_rp_05859.h5
+
+Processing simulation 235 of 310 	75.8%
+Radius: 0.0586129722594451
+Number of voids: 341
+Packing fraction: 0.2876
+Running geo2h5
+[234] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05861/bcc_lattice_rp_05861.h5
+Time taken: 246.77733635902405 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05861/bcc_lattice_rp_05861.h5
+
+Processing simulation 236 of 310 	76.1%
+Radius: 0.0586309726194523
+Number of voids: 341
+Packing fraction: 0.2879
+Running geo2h5
+[235] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05863/bcc_lattice_rp_05863.h5
+Time taken: 240.35251140594482 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05863/bcc_lattice_rp_05863.h5
+
+Processing simulation 237 of 310 	76.5%
+Radius: 0.0586499729994599
+Number of voids: 341
+Packing fraction: 0.2882
+Running geo2h5
+[236] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05864/bcc_lattice_rp_05864.h5
+Time taken: 247.31008887290955 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05864/bcc_lattice_rp_05864.h5
+
+Processing simulation 238 of 310 	76.8%
+Radius: 0.0586679733594671
+Number of voids: 341
+Packing fraction: 0.2884
+Running geo2h5
+[237] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05866/bcc_lattice_rp_05866.h5
+Time taken: 243.2389440536499 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05866/bcc_lattice_rp_05866.h5
+
+Processing simulation 239 of 310 	77.1%
+Radius: 0.0586869737394747
+Number of voids: 341
+Packing fraction: 0.2887
+Running geo2h5
+[238] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05868/bcc_lattice_rp_05868.h5
+Time taken: 248.37850308418274 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05868/bcc_lattice_rp_05868.h5
+
+Processing simulation 240 of 310 	77.4%
+Radius: 0.0587049740994819
+Number of voids: 341
+Packing fraction: 0.2890
+Running geo2h5
+[239] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05870/bcc_lattice_rp_05870.h5
+Time taken: 241.91340732574463 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05870/bcc_lattice_rp_05870.h5
+
+Processing simulation 241 of 310 	77.7%
+Radius: 0.0587239744794895
+Number of voids: 341
+Packing fraction: 0.2893
+Running geo2h5
+[240] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05872/bcc_lattice_rp_05872.h5
+Time taken: 247.02859139442444 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05872/bcc_lattice_rp_05872.h5
+
+Processing simulation 242 of 310 	78.1%
+Radius: 0.0587419748394967
+Number of voids: 341
+Packing fraction: 0.2895
+Running geo2h5
+[241] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05874/bcc_lattice_rp_05874.h5
+Time taken: 242.54231572151184 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05874/bcc_lattice_rp_05874.h5
+
+Processing simulation 243 of 310 	78.4%
+Radius: 0.0587609752195043
+Number of voids: 341
+Packing fraction: 0.2898
+Running geo2h5
+[242] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05876/bcc_lattice_rp_05876.h5
+Time taken: 238.10216784477234 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05876/bcc_lattice_rp_05876.h5
+
+Processing simulation 244 of 310 	78.7%
+Radius: 0.0587789755795115
+Number of voids: 341
+Packing fraction: 0.2901
+Running geo2h5
+[243] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05877/bcc_lattice_rp_05877.h5
+Time taken: 247.3126459121704 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05877/bcc_lattice_rp_05877.h5
+
+Processing simulation 245 of 310 	79.0%
+Radius: 0.0587979759595191
+Number of voids: 341
+Packing fraction: 0.2904
+Running geo2h5
+[244] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05879/bcc_lattice_rp_05879.h5
+Time taken: 241.0619592666626 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05879/bcc_lattice_rp_05879.h5
+
+Processing simulation 246 of 310 	79.4%
+Radius: 0.0588159763195263
+Number of voids: 341
+Packing fraction: 0.2906
+Running geo2h5
+[245] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05881/bcc_lattice_rp_05881.h5
+Time taken: 242.78017163276672 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05881/bcc_lattice_rp_05881.h5
+
+Processing simulation 247 of 310 	79.7%
+Radius: 0.0588349766995339
+Number of voids: 341
+Packing fraction: 0.2909
+Running geo2h5
+[246] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05883/bcc_lattice_rp_05883.h5
+Time taken: 241.96585607528687 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05883/bcc_lattice_rp_05883.h5
+
+Processing simulation 248 of 310 	80.0%
+Radius: 0.0588529770595411
+Number of voids: 341
+Packing fraction: 0.2912
+Running geo2h5
+[247] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05885/bcc_lattice_rp_05885.h5
+Time taken: 242.42779326438904 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05885/bcc_lattice_rp_05885.h5
+
+Processing simulation 249 of 310 	80.3%
+Radius: 0.0588709774195483
+Number of voids: 341
+Packing fraction: 0.2914
+Running geo2h5
+[248] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05887/bcc_lattice_rp_05887.h5
+Time taken: 237.11209440231323 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05887/bcc_lattice_rp_05887.h5
+
+Processing simulation 250 of 310 	80.6%
+Radius: 0.0588899777995559
+Number of voids: 341
+Packing fraction: 0.2917
+Running geo2h5
+[249] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05888/bcc_lattice_rp_05888.h5
+Time taken: 241.91809916496277 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05888/bcc_lattice_rp_05888.h5
+
+Processing simulation 251 of 310 	81.0%
+Radius: 0.0589079781595631
+Number of voids: 341
+Packing fraction: 0.2920
+Running geo2h5
+[250] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05890/bcc_lattice_rp_05890.h5
+Time taken: 245.7524871826172 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05890/bcc_lattice_rp_05890.h5
+
+Processing simulation 252 of 310 	81.3%
+Radius: 0.0589269785395707
+Number of voids: 341
+Packing fraction: 0.2923
+Running geo2h5
+[251] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05892/bcc_lattice_rp_05892.h5
+Time taken: 242.20968437194824 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05892/bcc_lattice_rp_05892.h5
+
+Processing simulation 253 of 310 	81.6%
+Radius: 0.0589449788995779
+Number of voids: 341
+Packing fraction: 0.2925
+Running geo2h5
+[252] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05894/bcc_lattice_rp_05894.h5
+Time taken: 241.30710244178772 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05894/bcc_lattice_rp_05894.h5
+
+Processing simulation 254 of 310 	81.9%
+Radius: 0.0589639792795855
+Number of voids: 341
+Packing fraction: 0.2928
+Running geo2h5
+[253] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05896/bcc_lattice_rp_05896.h5
+Time taken: 235.53607535362244 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05896/bcc_lattice_rp_05896.h5
+
+Processing simulation 255 of 310 	82.3%
+Radius: 0.0589819796395927
+Number of voids: 341
+Packing fraction: 0.2931
+Running geo2h5
+[254] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05898/bcc_lattice_rp_05898.h5
+Time taken: 238.97434663772583 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05898/bcc_lattice_rp_05898.h5
+
+Processing simulation 256 of 310 	82.6%
+Radius: 0.0590009800196003
+Number of voids: 341
+Packing fraction: 0.2934
+Running geo2h5
+[255] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05900/bcc_lattice_rp_05900.h5
+Time taken: 241.0069215297699 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05900/bcc_lattice_rp_05900.h5
+
+Processing simulation 257 of 310 	82.9%
+Radius: 0.0590189803796075
+Number of voids: 341
+Packing fraction: 0.2936
+Running geo2h5
+[256] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05901/bcc_lattice_rp_05901.h5
+Time taken: 238.94149565696716 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05901/bcc_lattice_rp_05901.h5
+
+Processing simulation 258 of 310 	83.2%
+Radius: 0.0590379807596151
+Number of voids: 341
+Packing fraction: 0.2939
+Running geo2h5
+[257] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05903/bcc_lattice_rp_05903.h5
+Time taken: 236.57170391082764 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05903/bcc_lattice_rp_05903.h5
+
+Processing simulation 259 of 310 	83.5%
+Radius: 0.0590559811196223
+Number of voids: 341
+Packing fraction: 0.2942
+Running geo2h5
+[258] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05905/bcc_lattice_rp_05905.h5
+Time taken: 244.92959451675415 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05905/bcc_lattice_rp_05905.h5
+
+Processing simulation 260 of 310 	83.9%
+Radius: 0.0590749814996299
+Number of voids: 341
+Packing fraction: 0.2945
+Running geo2h5
+[259] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05907/bcc_lattice_rp_05907.h5
+Time taken: 241.41039562225342 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05907/bcc_lattice_rp_05907.h5
+
+Processing simulation 261 of 310 	84.2%
+Radius: 0.0590929818596372
+Number of voids: 341
+Packing fraction: 0.2947
+Running geo2h5
+[260] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05909/bcc_lattice_rp_05909.h5
+Time taken: 241.49477672576904 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05909/bcc_lattice_rp_05909.h5
+
+Processing simulation 262 of 310 	84.5%
+Radius: 0.0591119822396448
+Number of voids: 341
+Packing fraction: 0.2950
+Running geo2h5
+[261] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05911/bcc_lattice_rp_05911.h5
+Time taken: 236.40698766708374 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05911/bcc_lattice_rp_05911.h5
+
+Processing simulation 263 of 310 	84.8%
+Radius: 0.0591299825996519
+Number of voids: 341
+Packing fraction: 0.2953
+Running geo2h5
+[262] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05912/bcc_lattice_rp_05912.h5
+Time taken: 243.55164742469788 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05912/bcc_lattice_rp_05912.h5
+
+Processing simulation 264 of 310 	85.2%
+Radius: 0.0591489829796595
+Number of voids: 341
+Packing fraction: 0.2956
+Running geo2h5
+[263] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05914/bcc_lattice_rp_05914.h5
+Time taken: 236.86549830436707 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05914/bcc_lattice_rp_05914.h5
+
+Processing simulation 265 of 310 	85.5%
+Radius: 0.0591669833396667
+Number of voids: 341
+Packing fraction: 0.2959
+Running geo2h5
+[264] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05916/bcc_lattice_rp_05916.h5
+Time taken: 234.2186348438263 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05916/bcc_lattice_rp_05916.h5
+
+Processing simulation 266 of 310 	85.8%
+Radius: 0.0591859837196743
+Number of voids: 341
+Packing fraction: 0.2961
+Running geo2h5
+[265] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05918/bcc_lattice_rp_05918.h5
+Time taken: 243.32241439819336 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05918/bcc_lattice_rp_05918.h5
+
+Processing simulation 267 of 310 	86.1%
+Radius: 0.0592039840796815
+Number of voids: 341
+Packing fraction: 0.2964
+Running geo2h5
+[266] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05920/bcc_lattice_rp_05920.h5
+Time taken: 236.52307033538818 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05920/bcc_lattice_rp_05920.h5
+
+Processing simulation 268 of 310 	86.5%
+Radius: 0.0592229844596891
+Number of voids: 341
+Packing fraction: 0.2967
+Running geo2h5
+[267] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05922/bcc_lattice_rp_05922.h5
+Time taken: 241.1640956401825 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05922/bcc_lattice_rp_05922.h5
+
+Processing simulation 269 of 310 	86.8%
+Radius: 0.0592409848196964
+Number of voids: 341
+Packing fraction: 0.2970
+Running geo2h5
+[268] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05924/bcc_lattice_rp_05924.h5
+Time taken: 241.29081964492798 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05924/bcc_lattice_rp_05924.h5
+
+Processing simulation 270 of 310 	87.1%
+Radius: 0.059259985199704
+Number of voids: 341
+Packing fraction: 0.2973
+Running geo2h5
+[269] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05925/bcc_lattice_rp_05925.h5
+Time taken: 243.42715167999268 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05925/bcc_lattice_rp_05925.h5
+
+Processing simulation 271 of 310 	87.4%
+Radius: 0.0592779855597112
+Number of voids: 341
+Packing fraction: 0.2975
+Running geo2h5
+[270] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05927/bcc_lattice_rp_05927.h5
+Time taken: 238.3401792049408 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05927/bcc_lattice_rp_05927.h5
+
+Processing simulation 272 of 310 	87.7%
+Radius: 0.0592969859397188
+Number of voids: 341
+Packing fraction: 0.2978
+Running geo2h5
+[271] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05929/bcc_lattice_rp_05929.h5
+Time taken: 239.95077848434448 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05929/bcc_lattice_rp_05929.h5
+
+Processing simulation 273 of 310 	88.1%
+Radius: 0.0593149862997259
+Number of voids: 341
+Packing fraction: 0.2981
+Running geo2h5
+[272] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05931/bcc_lattice_rp_05931.h5
+Time taken: 246.44514656066895 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05931/bcc_lattice_rp_05931.h5
+
+Processing simulation 274 of 310 	88.4%
+Radius: 0.0593339866797335
+Number of voids: 341
+Packing fraction: 0.2984
+Running geo2h5
+[273] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05933/bcc_lattice_rp_05933.h5
+Time taken: 220.55668592453003 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05933/bcc_lattice_rp_05933.h5
+
+Processing simulation 275 of 310 	88.7%
+Radius: 0.0593519870397407
+Number of voids: 341
+Packing fraction: 0.2986
+Running geo2h5
+[274] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05935/bcc_lattice_rp_05935.h5
+Time taken: 221.34373378753662 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05935/bcc_lattice_rp_05935.h5
+
+Processing simulation 276 of 310 	89.0%
+Radius: 0.0593709874197483
+Number of voids: 341
+Packing fraction: 0.2989
+Running geo2h5
+[275] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05937/bcc_lattice_rp_05937.h5
+Time taken: 221.40242910385132 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05937/bcc_lattice_rp_05937.h5
+
+Processing simulation 277 of 310 	89.4%
+Radius: 0.0593889877797556
+Number of voids: 341
+Packing fraction: 0.2992
+Running geo2h5
+[276] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05938/bcc_lattice_rp_05938.h5
+Time taken: 220.1233685016632 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05938/bcc_lattice_rp_05938.h5
+
+Processing simulation 278 of 310 	89.7%
+Radius: 0.0594079881597632
+Number of voids: 341
+Packing fraction: 0.2995
+Running geo2h5
+[277] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05940/bcc_lattice_rp_05940.h5
+Time taken: 219.8355507850647 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05940/bcc_lattice_rp_05940.h5
+
+Processing simulation 279 of 310 	90.0%
+Radius: 0.0594259885197704
+Number of voids: 341
+Packing fraction: 0.2998
+Running geo2h5
+[278] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05942/bcc_lattice_rp_05942.h5
+Time taken: 222.05530381202698 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05942/bcc_lattice_rp_05942.h5
+
+Processing simulation 280 of 310 	90.3%
+Radius: 0.059444988899778
+Number of voids: 341
+Packing fraction: 0.3000
+Running geo2h5
+[279] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05944/bcc_lattice_rp_05944.h5
+Time taken: 220.49644565582275 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05944/bcc_lattice_rp_05944.h5
+
+Processing simulation 281 of 310 	90.6%
+Radius: 0.0594629892597852
+Number of voids: 341
+Packing fraction: 0.3003
+Running geo2h5
+[280] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05946/bcc_lattice_rp_05946.h5
+Time taken: 219.25720238685608 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05946/bcc_lattice_rp_05946.h5
+
+Processing simulation 282 of 310 	91.0%
+Radius: 0.0594819896397928
+Number of voids: 341
+Packing fraction: 0.3006
+Running geo2h5
+[281] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05948/bcc_lattice_rp_05948.h5
+Time taken: 219.0854926109314 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05948/bcc_lattice_rp_05948.h5
+
+Processing simulation 283 of 310 	91.3%
+Radius: 0.0594999899997999
+Number of voids: 341
+Packing fraction: 0.3009
+Running geo2h5
+[282] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05949/bcc_lattice_rp_05949.h5
+Time taken: 219.8246772289276 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05949/bcc_lattice_rp_05949.h5
+
+Processing simulation 284 of 310 	91.6%
+Radius: 0.0595189903798075
+Number of voids: 341
+Packing fraction: 0.3012
+Running geo2h5
+[283] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05951/bcc_lattice_rp_05951.h5
+Time taken: 219.89440965652466 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05951/bcc_lattice_rp_05951.h5
+
+Processing simulation 285 of 310 	91.9%
+Radius: 0.0595369907398148
+Number of voids: 341
+Packing fraction: 0.3014
+Running geo2h5
+[284] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05953/bcc_lattice_rp_05953.h5
+Time taken: 220.5640058517456 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05953/bcc_lattice_rp_05953.h5
+
+Processing simulation 286 of 310 	92.3%
+Radius: 0.0595559911198224
+Number of voids: 341
+Packing fraction: 0.3017
+Running geo2h5
+[285] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05955/bcc_lattice_rp_05955.h5
+Time taken: 219.88015604019165 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05955/bcc_lattice_rp_05955.h5
+
+Processing simulation 287 of 310 	92.6%
+Radius: 0.0595739914798296
+Number of voids: 341
+Packing fraction: 0.3020
+Running geo2h5
+[286] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05957/bcc_lattice_rp_05957.h5
+Time taken: 219.13198065757751 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05957/bcc_lattice_rp_05957.h5
+
+Processing simulation 288 of 310 	92.9%
+Radius: 0.0595929918598372
+Number of voids: 341
+Packing fraction: 0.3023
+Running geo2h5
+[287] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05959/bcc_lattice_rp_05959.h5
+Time taken: 219.0791323184967 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05959/bcc_lattice_rp_05959.h5
+
+Processing simulation 289 of 310 	93.2%
+Radius: 0.0596109922198444
+Number of voids: 341
+Packing fraction: 0.3026
+Running geo2h5
+[288] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05961/bcc_lattice_rp_05961.h5
+Time taken: 218.32983660697937 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05961/bcc_lattice_rp_05961.h5
+
+Processing simulation 290 of 310 	93.5%
+Radius: 0.059629992599852
+Number of voids: 341
+Packing fraction: 0.3029
+Running geo2h5
+[289] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05962/bcc_lattice_rp_05962.h5
+Time taken: 219.68870282173157 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05962/bcc_lattice_rp_05962.h5
+
+Processing simulation 291 of 310 	93.9%
+Radius: 0.0596479929598591
+Number of voids: 341
+Packing fraction: 0.3031
+Running geo2h5
+[290] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05964/bcc_lattice_rp_05964.h5
+Time taken: 221.40676355361938 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05964/bcc_lattice_rp_05964.h5
+
+Processing simulation 292 of 310 	94.2%
+Radius: 0.0596669933398668
+Number of voids: 341
+Packing fraction: 0.3034
+Running geo2h5
+[291] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05966/bcc_lattice_rp_05966.h5
+Time taken: 219.37205839157104 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05966/bcc_lattice_rp_05966.h5
+
+Processing simulation 293 of 310 	94.5%
+Radius: 0.059684993699874
+Number of voids: 341
+Packing fraction: 0.3037
+Running geo2h5
+[292] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05968/bcc_lattice_rp_05968.h5
+Time taken: 219.81069922447205 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05968/bcc_lattice_rp_05968.h5
+
+Processing simulation 294 of 310 	94.8%
+Radius: 0.0597039940798816
+Number of voids: 341
+Packing fraction: 0.3040
+Running geo2h5
+[293] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05970/bcc_lattice_rp_05970.h5
+Time taken: 219.17801880836487 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05970/bcc_lattice_rp_05970.h5
+
+Processing simulation 295 of 310 	95.2%
+Radius: 0.0597219944398888
+Number of voids: 341
+Packing fraction: 0.3043
+Running geo2h5
+[294] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05972/bcc_lattice_rp_05972.h5
+Time taken: 219.6227502822876 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05972/bcc_lattice_rp_05972.h5
+
+Processing simulation 296 of 310 	95.5%
+Radius: 0.0597409948198964
+Number of voids: 341
+Packing fraction: 0.3046
+Running geo2h5
+[295] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05974/bcc_lattice_rp_05974.h5
+Time taken: 220.26726531982422 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05974/bcc_lattice_rp_05974.h5
+
+Processing simulation 297 of 310 	95.8%
+Radius: 0.0597589951799036
+Number of voids: 341
+Packing fraction: 0.3048
+Running geo2h5
+[296] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05975/bcc_lattice_rp_05975.h5
+Time taken: 219.7675187587738 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05975/bcc_lattice_rp_05975.h5
+
+Processing simulation 298 of 310 	96.1%
+Radius: 0.0597779955599112
+Number of voids: 341
+Packing fraction: 0.3051
+Running geo2h5
+[297] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05977/bcc_lattice_rp_05977.h5
+Time taken: 220.7336404323578 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05977/bcc_lattice_rp_05977.h5
+
+Processing simulation 299 of 310 	96.5%
+Radius: 0.0597959959199184
+Number of voids: 341
+Packing fraction: 0.3054
+Running geo2h5
+[298] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05979/bcc_lattice_rp_05979.h5
+Time taken: 218.87332320213318 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05979/bcc_lattice_rp_05979.h5
+
+Processing simulation 300 of 310 	96.8%
+Radius: 0.059814996299926
+Number of voids: 341
+Packing fraction: 0.3057
+Running geo2h5
+[299] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05981/bcc_lattice_rp_05981.h5
+Time taken: 218.70721626281738 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05981/bcc_lattice_rp_05981.h5
+
+Processing simulation 301 of 310 	97.1%
+Radius: 0.0598329966599332
+Number of voids: 341
+Packing fraction: 0.3060
+Running geo2h5
+[300] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05983/bcc_lattice_rp_05983.h5
+Time taken: 220.40564608573914 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05983/bcc_lattice_rp_05983.h5
+
+Processing simulation 302 of 310 	97.4%
+Radius: 0.0598519970399408
+Number of voids: 341
+Packing fraction: 0.3063
+Running geo2h5
+[301] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05985/bcc_lattice_rp_05985.h5
+Time taken: 218.68436241149902 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05985/bcc_lattice_rp_05985.h5
+
+Processing simulation 303 of 310 	97.7%
+Radius: 0.059869997399948
+Number of voids: 341
+Packing fraction: 0.3065
+Running geo2h5
+[302] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05986/bcc_lattice_rp_05986.h5
+Time taken: 218.05178809165955 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05986/bcc_lattice_rp_05986.h5
+
+Processing simulation 304 of 310 	98.1%
+Radius: 0.0598889977799556
+Number of voids: 341
+Packing fraction: 0.3068
+Running geo2h5
+[303] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05988/bcc_lattice_rp_05988.h5
+Time taken: 218.68118858337402 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05988/bcc_lattice_rp_05988.h5
+
+Processing simulation 305 of 310 	98.4%
+Radius: 0.0599069981399628
+Number of voids: 341
+Packing fraction: 0.3071
+Running geo2h5
+[304] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05990/bcc_lattice_rp_05990.h5
+Time taken: 219.64574718475342 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05990/bcc_lattice_rp_05990.h5
+
+Processing simulation 306 of 310 	98.7%
+Radius: 0.0599259985199704
+Number of voids: 341
+Packing fraction: 0.3074
+Running geo2h5
+[305] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05992/bcc_lattice_rp_05992.h5
+Time taken: 215.6410939693451 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05992/bcc_lattice_rp_05992.h5
+
+Processing simulation 307 of 310 	99.0%
+Radius: 0.0599439988799776
+Number of voids: 341
+Packing fraction: 0.3077
+Running geo2h5
+[306] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05994/bcc_lattice_rp_05994.h5
+Time taken: 218.55638766288757 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05994/bcc_lattice_rp_05994.h5
+
+Processing simulation 308 of 310 	99.4%
+Radius: 0.0599629992599852
+Number of voids: 341
+Packing fraction: 0.3080
+Running geo2h5
+[307] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05996/bcc_lattice_rp_05996.h5
+Time taken: 221.30759167671204 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05996/bcc_lattice_rp_05996.h5
+
+Processing simulation 309 of 310 	99.7%
+Radius: 0.0599809996199924
+Number of voids: 341
+Packing fraction: 0.3082
+Running geo2h5
+[308] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05998/bcc_lattice_rp_05998.h5
+Time taken: 216.52713441848755 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05998/bcc_lattice_rp_05998.h5
+
+Processing simulation 310 of 310 	100.0%
+Radius: 0.06
+Number of voids: 341
+Packing fraction: 0.3085
+Running geo2h5
+[309] Mesh written → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_06000/bcc_lattice_rp_06000.h5
+Time taken: 217.26777267456055 seconds
+Keeping file: /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_06000/bcc_lattice_rp_06000.h5

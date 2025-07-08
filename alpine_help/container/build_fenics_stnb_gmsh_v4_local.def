@@ -1,0 +1,7 @@
+bootstrap: localimage
+from: /projects/jogr4852/clotsimnet/alpine_help/container/fenics_stnb_gmsh_v3.sif
+
+%post
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu --no-cache-dir
+

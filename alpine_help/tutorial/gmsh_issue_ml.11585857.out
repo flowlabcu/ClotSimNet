@@ -1,0 +1,17 @@
+Info    : Running 'gmsh -nt 2 t1.geo -2' [Gmsh 4.11.1, 1 node, max. 2 threads]
+Info    : Started on Wed Feb 12 17:36:46 2025
+Info    : Reading 't1.geo'...
+Info    : Done reading 't1.geo'
+Info    : Meshing 1D...
+Info    : [  0%] Meshing curve 1 (Line)
+Info    : [  0%] Meshing curve 2 (Line)
+Info    : [ 30%] Meshing curve 3 (Line)
+Info    : [ 80%] Meshing curve 4 (Line)
+Info    : Done meshing 1D (Wall 0.00354398s, CPU 0.001793s)
+Info    : Meshing 2D...
+Info    : Meshing surface 1 (Plane, Frontal-Delaunay)
+Info    : Done meshing 2D (Wall 0.00879621s, CPU 0.013013s)
+Info    : 404 nodes 810 elements
+Info    : Writing 't1.msh'...
+Info    : Done writing 't1.msh'
+Info    : Stopped on Wed Feb 12 17:36:46 2025 (From start: Wall 0.0334314s, CPU 0.030179s)

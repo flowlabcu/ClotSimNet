@@ -1,0 +1,45 @@
+/home/jogr4852/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6l13nzbo because the default path (/home/jovyan/.cache/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib is building the font cache; this may take a moment.
+
+Processing simulation 1 of 2
+Peclet number: 3400.0
+Error during mesh generation: [Errno 2] No such file or directory: 'geo2h5'
+Meshing completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Reading aN_447_rp_017_seed_1.geo
+Wrote velocity boundaries to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/boundaries/u-bcs-aN_447_rp_017_seed_1.bounds
+Traceback (most recent call last):
+  File "simulate.py", line 143, in <module>
+    run_simulation_from_csv(csv_path=tasks_file, mesh_size=mesh_size, D=D, vel=vel, sources_dir=sources_dir, row_index=i)
+  File "simulate.py", line 92, in run_simulation_from_csv
+    run_sim(D=D, 
+  File "simulate.py", line 38, in run_sim
+    run_flow = RunFlow(
+  File "/projects/jogr4852/clotsimnet/test_feature_extraction/scripts/flow_steady.py", line 39, in __init__
+    self.mesh = Mesh(mesh_file = self.mesh_file)
+  File "/home/jogr4852/.local/lib/python3.8/site-packages/flatiron_tk/mesh/mesh.py", line 74, in __init__
+    self.mesh, self.boundary = _load_mesh(self.comm, _mesh_file)
+  File "/home/jogr4852/.local/lib/python3.8/site-packages/flatiron_tk/mesh/mesh.py", line 15, in _load_mesh
+    hdf = fe.HDF5File(comm, mesh_file, 'r')
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to open HDF5 file.
+*** Reason:  File "/projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/aN_447_rp_017_seed_1.h5" does not exist.
+*** Where:   This error was encountered inside HDF5Interface.cpp.
+*** Process: 0
+*** 
+*** DOLFIN version: 2019.1.0
+*** Git changeset:  43bb89b28133c8157c5647d4bf93e7a97ee37718
+*** -------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Newton iteration 0: r (abs) = 3.098e+02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Newton iteration 1: r (abs) = 3.122e-13 (tol = 1.000e-10) r (rel) = 1.008e-15 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Newton iteration 0: r (abs) = 1.291e-02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Newton iteration 1: r (abs) = 7.509e-17 (tol = 1.000e-10) r (rel) = 5.817e-15 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Newton iteration 0: r (abs) = 3.098e+02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Newton iteration 1: r (abs) = 1.250e-12 (tol = 1.000e-10) r (rel) = 4.035e-15 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Newton iteration 0: r (abs) = 1.291e-02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Newton iteration 1: r (abs) = 5.975e-17 (tol = 1.000e-10) r (rel) = 4.629e-15 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+/home/jogr4852/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+
+Processing simulation 1 of 2 	50.0%
+Peclet number: 3400.0
+Case dir: /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Meshing completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Reading aN_447_rp_017_seed_1.geo
+Wrote velocity boundaries to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/boundaries/u-bcs-aN_447_rp_017_seed_1.bounds
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/u.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/p.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/c.pvd
+Wrote data to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/data.csv.
+CFD completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Image path: /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/aN_447_rp_017_seed_1.jpeg
+Error processing simulation 1: [Errno 2] No such file or directory: '/projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/aN_447_rp_017_seed_1.jpeg'
+Run finished in 38.17178416252136 seconds
+
+Processing simulation 2 of 2 	100.0%
+Peclet number: 4800.0
+Case dir: /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1
+Meshing completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1
+Reading aN_447_rp_024_seed_1.geo
+Wrote velocity boundaries to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/boundaries/u-bcs-aN_447_rp_024_seed_1.bounds
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/output/u.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/output/p.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/output/c.pvd
+Wrote data to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/data.csv.
+CFD completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1
+Image path: /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/output/aN_447_rp_024_seed_1.jpeg
+Error processing simulation 2: [Errno 2] No such file or directory: '/projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_024_seed_1/output/aN_447_rp_024_seed_1.jpeg'
+Run finished in 19.139903783798218 seconds

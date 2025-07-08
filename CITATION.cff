@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ClotSimNet
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Josh
+    family-names: Gregory
+    email: josh.gregory@colorado.edu
+    affiliation: University of Colorado Boulder
+    orcid: 'https://orcid.org/0000-0002-4368-1171'
+repository-code: 'https://github.com/joshgregory42/clotsimnet/tree/main'
+abstract: >-
+  Repository for Master's of Science Thesis, University of
+  Colorado Boulder
+keywords:
+  - Computational Fluid Dynamics
+  - Machine Learning
+  - Deep Learning
+  - Artificial Intelligence
+  - Blood clots
+license: GPL-3.0

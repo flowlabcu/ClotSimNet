@@ -1,0 +1,703 @@
+[mpiexec@flowlab2] Sending Ctrl-C to processes as requested
+[mpiexec@flowlab2] Press Ctrl-C again to force abort
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+    from flow_nse import RunFlow
+    from flow_nse import RunFlow
+    from flow_nse import RunFlow
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+    from flow_nse import RunFlow
+    import fenics as fe 
+    import fenics as fe 
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+    from dolfin import *
+    import fenics as fe 
+    from dolfin import *
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 135, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 135, in <module>
+    from flow_nse import RunFlow
+    from flow_nse import RunFlow
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    from dolfin import *
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+    import fenics as fe 
+    import fenics as fe 
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+    from dolfin import *
+    from dolfin import *
+    from dolfin import *
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+Traceback (most recent call last):
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+    from flow_nse import RunFlow
+    from dolfin import *
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+Traceback (most recent call last):
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/cfd_all.py", line 8, in <module>
+    from flow_nse import RunFlow
+  File "/home/joshgregory/clotsimnet/data_gen_3d/scripts/flow_nse.py", line 8, in <module>
+    import fenics as fe 
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/fenics/__init__.py", line 7, in <module>
+    from dolfin import *
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/__init__.py", line 136, in <module>
+    from . import parameter
+    from . import parameter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from . import mesh
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/mesh/__init__.py", line 1, in <module>
+    from . import mesh
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/mesh/__init__.py", line 1, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from . import parameter
+    from . import parameter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from . import parameter
+    from . import parameter
+    from . import parameter
+    from . import parameter
+    from . import parameter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from . import parameter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    import ufl
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ufl/__init__.py", line 250, in <module>
+    from . import parameter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+    import ufl
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ufl/__init__.py", line 250, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from . import parameter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/dolfin/parameter/__init__.py", line 11, in <module>
+    from ffc import default_jit_parameters
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from ffc import default_jit_parameters
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/__init__.py", line 24, in <module>
+    from ffc.compiler import compile_form, compile_element
+    from ffc.compiler import compile_form, compile_element
+    from ffc.compiler import compile_form, compile_element
+    from ffc.compiler import compile_form, compile_element
+    from ffc.compiler import compile_form, compile_element
+    from ffc.compiler import compile_form, compile_element
+    from ffc.compiler import compile_form, compile_element
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+    from ffc.compiler import compile_form, compile_element
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+    from ffc.compiler import compile_form, compile_element
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+    from ffc.compiler import compile_form, compile_element
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+    from ffc.compiler import compile_form, compile_element
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+    from ffc.compiler import compile_form, compile_element
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/compiler.py", line 127, in <module>
+    import pkg_resources
+    import pkg_resources
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 95, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 3672, in <module>
+    from ffc.representation import compute_ir
+    from ffc.representation import compute_ir
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+    from ffc.representation import compute_ir
+    from ffc.representation import compute_ir
+    from ffc.representation import compute_ir
+    from ffc.representation import compute_ir
+    from ffc.representation import compute_ir
+    from ffc.representation import compute_ir
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+    from ffc.representation import compute_ir
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+    from ffc.representation import compute_ir
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+    from ffc.representation import compute_ir
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+    from ffc.representation import compute_ir
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/representation.py", line 44, in <module>
+    from jaraco.text import drop_comment, join_continuation, yield_lines
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/setuptools/_vendor/jaraco/text/__init__.py", line 231, in <module>
+    from ffc.fiatinterface import create_element, reference_cell
+    from ffc.fiatinterface import create_element, reference_cell
+    from ffc.fiatinterface import create_element, reference_cell
+    from ffc.fiatinterface import create_element, reference_cell
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+    from ffc.fiatinterface import create_element, reference_cell
+    from ffc.fiatinterface import create_element, reference_cell
+    from ffc.fiatinterface import create_element, reference_cell
+    from ffc.fiatinterface import create_element, reference_cell
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+    from ffc.fiatinterface import create_element, reference_cell
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+    from ffc.fiatinterface import create_element, reference_cell
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+    from ffc.fiatinterface import create_element, reference_cell
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+    from ffc.fiatinterface import create_element, reference_cell
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/ffc/fiatinterface.py", line 31, in <module>
+    files(__name__).joinpath('Lorem ipsum.txt').read_text(encoding='utf-8')
+    ^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/_common.py", line 46, in wrapper
+    import FIAT
+    import FIAT
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    return func(anchor)
+           ^^^^^^^^^^^^
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    import FIAT
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/_common.py", line 56, in files
+    import FIAT
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/__init__.py", line 8, in <module>
+    return from_package(resolve(anchor))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/_common.py", line 113, in from_package
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    from FIAT.finite_element import FiniteElement, CiarletElement  # noqa: F401
+    reader = spec.loader.get_resource_reader(spec.name)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/finite_element.py", line 24, in <module>
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/_adapters.py", line 29, in get_resource_reader
+    return CompatibilityFiles(self.spec)._native()
+    from FIAT.polynomial_set import PolynomialSet
+    from FIAT.polynomial_set import PolynomialSet
+    from FIAT.polynomial_set import PolynomialSet
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/_adapters.py", line 153, in _native
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    from FIAT.polynomial_set import PolynomialSet
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/polynomial_set.py", line 30, in <module>
+    reader = self._reader
+             ^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/_adapters.py", line 147, in _reader
+    return self.spec.loader.get_resource_reader(self.spec.name)
+    @_call_aside
+    from FIAT import expansions
+    from FIAT import expansions
+     ^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 649, in _check_name_wrapper
+  File "<frozen importlib._bootstrap_external>", line 1194, in get_resource_reader
+    from FIAT import expansions
+    from FIAT import expansions
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 3656, in _call_aside
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/readers.py", line 8, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+    from FIAT import expansions
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+    from FIAT import expansions
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+    from FIAT import expansions
+    from FIAT import expansions
+    from FIAT import expansions
+    from FIAT import expansions
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+    from FIAT import expansions
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+    from FIAT import expansions
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/FIAT/expansions.py", line 23, in <module>
+    from .resources.readers import (
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/importlib/resources/readers.py", line 58, in <module>
+    import sympy
+    import sympy
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 22, in <module>
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+    import sympy
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 22, in <module>
+    import sympy
+    import sympy
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 22, in <module>
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 30, in <module>
+    import sympy
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/__init__.py", line 74, in <module>
+    import mpmath
+    import mpmath
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 79, in <module>
+    import mpmath
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/__init__.py", line 5, in <module>
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 68, in <module>
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 79, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/__init__.py", line 5, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/__init__.py", line 5, in <module>
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+    from sympy.core.cache import lazy_function
+    from sympy.core.cache import lazy_function
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 124, in <module>
+    class MultiplexedPath(abc.Traversable):
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/typing.py", line 1867, in __new__
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 79, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/__init__.py", line 4, in <module>
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 124, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/__init__.py", line 79, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/__init__.py", line 9, in <module>
+    from .polyfuncs import (symmetrize, horner, interpolate,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/polyfuncs.py", line 10, in <module>
+    from .polyfuncs import (symmetrize, horner, interpolate,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/polyfuncs.py", line 10, in <module>
+    from .polytools import (Poly, PurePoly, poly_from_expr,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/polytools.py", line 27, in <module>
+    from .polyfuncs import (symmetrize, horner, interpolate,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/polyfuncs.py", line 10, in <module>
+    from .partfrac import apart, apart_list, assemble_partfrac_list
+    from .ctx_fp import FPContext
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/ctx_fp.py", line 1, in <module>
+    from .polyfuncs import (symmetrize, horner, interpolate,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/polyfuncs.py", line 10, in <module>
+    from .ctx_fp import FPContext
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/ctx_fp.py", line 1, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/partfrac.py", line 13, in <module>
+    from .ctx_fp import FPContext
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/ctx_fp.py", line 1, in <module>
+    from .expr import Expr, AtomicExpr, UnevaluatedExpr
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/expr.py", line 4157, in <module>
+    from .sympify import sympify, SympifyError
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/sympify.py", line 620, in <module>
+    from .partfrac import apart, apart_list, assemble_partfrac_list
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/partfrac.py", line 13, in <module>
+    from sympy.polys.specialpolys import (
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/specialpolys.py", line 298, in <module>
+    from sympy.polys.specialpolys import (
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/specialpolys.py", line 298, in <module>
+    from sympy.polys.specialpolys import (
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/specialpolys.py", line 298, in <module>
+    from .ctx_base import StandardBaseContext
+    from .ctx_base import StandardBaseContext
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/ctx_base.py", line 5, in <module>
+    from .ctx_base import StandardBaseContext
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/ctx_base.py", line 3, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/ctx_base.py", line 12, in <module>
+    from sympy.polys.specialpolys import (
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/specialpolys.py", line 298, in <module>
+    from sympy.polys.constructor import construct_domain
+    from sympy.polys.rings import ring
+    @xthreaded
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/rings.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/constructor.py", line 7, in <module>
+    @xthreaded
+     ^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/utilities/decorator.py", line 76, in xthreaded
+    from sympy.polys.rings import ring
+    from sympy.polys.rings import ring
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/rings.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/rings.py", line 30, in <module>
+     ^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/utilities/decorator.py", line 76, in xthreaded
+    f(*args, **kwargs)
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 3685, in _initialize_master_working_set
+    return threaded_factory(func, False)
+    return super().__new__(mcls, name, bases, namespace, **kwargs)
+    return threaded_factory(func, False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/utilities/decorator.py", line 13, in threaded_factory
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen abc>", line 107, in __new__
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/utilities/decorator.py", line 13, in threaded_factory
+    from .functions.functions import SpecialFunctions
+KeyboardInterrupt
+    from sympy.polys.rings import ring
+    from sympy.matrices import MatrixBase
+    from .libmp.backend import xrange
+    from .matrices.matrices import MatrixMethods
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/functions/__init__.py", line 4, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/__init__.py", line 22, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/libmp/__init__.py", line 1, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/rings.py", line 30, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/matrices/__init__.py", line 2, in <module>
+    from sympy.matrices import MatrixBase
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/__init__.py", line 22, in <module>
+    from . import eigen_symmetric # to set methods
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    from sympy.printing.defaults import DefaultPrinting
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/__init__.py", line 11, in <module>
+    from . import hypergeometric
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1124, in get_code
+  File "<frozen importlib._bootstrap_external>", line 755, in _compile_bytecode
+  File "<frozen importlib._bootstrap>", line 491, in _verbose_message
+KeyboardInterrupt
+    from .libmpf import (prec_to_dps, dps_to_prec, repr_dps,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/mpmath/libmp/libmpf.py", line 273, in <module>
+    from sympy.printing.defaults import DefaultPrinting
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/__init__.py", line 11, in <module>
+    from .pycode import pycode
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/pycode.py", line 11, in <module>
+    from sympy.printing.defaults import DefaultPrinting
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/__init__.py", line 11, in <module>
+    from .pycode import pycode
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/pycode.py", line 11, in <module>
+    from .codeprinter import CodePrinter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/codeprinter.py", line 13, in <module>
+    from .basic import Basic
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/basic.py", line 13, in <module>
+    from .kind import Kind, UndefinedKind
+    from sympy.printing.defaults import DefaultPrinting
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/__init__.py", line 11, in <module>
+    from .pycode import pycode
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/pycode.py", line 11, in <module>
+    from .codeprinter import CodePrinter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/codeprinter.py", line 13, in <module>
+    from .immutable import ImmutableDenseMatrix, ImmutableSparseMatrix
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/immutable.py", line 8, in <module>
+    from sympy.matrices.expressions import MatrixExpr
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/expressions/__init__.py", line 3, in <module>
+KeyboardInterrupt
+    from .pycode import pycode
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/pycode.py", line 11, in <module>
+    from .codeprinter import CodePrinter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/codeprinter.py", line 13, in <module>
+    from sympy.functions.elementary.complexes import re
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/__init__.py", line 10, in <module>
+    working_set = _declare_state('object', 'working_set', WorkingSet._build_master())
+                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 652, in _build_master
+    from .immutable import ImmutableDenseMatrix, ImmutableSparseMatrix
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/immutable.py", line 8, in <module>
+    from sympy.matrices.expressions import MatrixExpr
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/expressions/__init__.py", line 15, in <module>
+    from .adjoint import Adjoint
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/expressions/adjoint.py", line 6, in <module>
+    from .codeprinter import CodePrinter
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/printing/codeprinter.py", line 13, in <module>
+    from sympy.functions.elementary.complexes import re
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/__init__.py", line 10, in <module>
+    from sympy.functions.combinatorial.numbers import (carmichael, fibonacci, lucas, tribonacci,
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1124, in get_code
+    from sympy.polys.domains import ZZ, QQ, ZZ_I, QQ_I, EX
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/domains/__init__.py", line 12, in <module>
+    from .finitefield import FiniteField, FF, GF
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/polys/domains/finitefield.py", line 13, in <module>
+    from sympy.functions.elementary.complexes import re
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/__init__.py", line 10, in <module>
+    from sympy.functions.combinatorial.numbers import (carmichael, fibonacci, lucas, tribonacci,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/combinatorial/numbers.py", line 32, in <module>
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/kind.py", line 31, in <module>
+    from sympy.functions.elementary.complexes import re
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/__init__.py", line 28, in <module>
+    from sympy.functions.special.error_functions import (erf, erfc, erfi, erf2,
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1087, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1187, in get_data
+KeyboardInterrupt
+    from .slice import MatrixSlice
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/matrices/expressions/slice.py", line 1, in <module>
+    from sympy.matrices.expressions.matexpr import MatrixExpr
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1124, in get_code
+  File "<frozen importlib._bootstrap_external>", line 753, in _compile_bytecode
+KeyboardInterrupt
+    from sympy.functions.combinatorial.numbers import (carmichael, fibonacci, lucas, tribonacci,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/combinatorial/numbers.py", line 25, in <module>
+    from sympy.functions.elementary.exponential import log
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/functions/elementary/exponential.py", line 18, in <module>
+    ws = cls()
+         ^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 645, in __init__
+    class Adjoint(MatrixExpr):
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/basic.py", line 188, in __init_subclass__
+    _prepare_class_assumptions(cls)
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/assumptions.py", line 666, in _prepare_class_assumptions
+    if BACKEND == 'gmpy' and '_mpmath_normalize' in dir(gmpy):
+                                                    ^^^^^^^^^
+KeyboardInterrupt
+  File "<frozen importlib._bootstrap_external>", line 753, in _compile_bytecode
+KeyboardInterrupt
+    from sympy.polys.galoistools import gf_zassenhaus, gf_irred_p_rabin
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1087, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1187, in get_data
+KeyboardInterrupt
+    from sympy.polys.appellseqs import bernoulli_poly, euler_poly, genocchi_poly
+  File "<frozen importlib._bootstrap>", line 1349, in _find_and_load
+KeyboardInterrupt
+    from sympy.multipledispatch.dispatcher import (Dispatcher,
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/multipledispatch/__init__.py", line 1, in <module>
+    from .core import dispatch
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/multipledispatch/core.py", line 6, in <module>
+    from sympy.functions.elementary.complexes import arg, unpolarify, im, re, Abs
+    self.add_entry(entry)
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 702, in add_entry
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+    self.add(dist, entry, False)
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 802, in add
+  File "<frozen importlib._bootstrap_external>", line 1124, in get_code
+  File "<frozen importlib._bootstrap_external>", line 753, in _compile_bytecode
+KeyboardInterrupt
+    from .dispatcher import Dispatcher, MethodDispatcher, ambiguity_warn
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/multipledispatch/dispatcher.py", line 5, in <module>
+    if not hasattr(cls, pname):
+    from .mul import Mul
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/mul.py", line 2194, in <module>
+           ^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+    self.by_key[dist.key] = dist
+                ^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/pkg_resources/__init__.py", line 3001, in key
+    from .conflict import ordering, ambiguities, super_signature, AmbiguityWarning
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1124, in get_code
+  File "<frozen importlib._bootstrap_external>", line 753, in _compile_bytecode
+KeyboardInterrupt
+    @property
+
+KeyboardInterrupt
+    from .numbers import Rational
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/numbers.py", line 3724, in <module>
+    class Pi(NumberSymbol, metaclass=Singleton):
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/basic.py", line 188, in __init_subclass__
+    _prepare_class_assumptions(cls)
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/assumptions.py", line 638, in _prepare_class_assumptions
+    cls.default_assumptions = StdFactKB(defs)
+                              ^^^^^^^^^^^^^^^
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/assumptions.py", line 479, in __init__
+    self.deduce_all_facts(facts)
+  File "/home/joshgregory/anaconda3/envs/fenicsprojects/lib/python3.12/site-packages/sympy/core/facts.py", line 633, in deduce_all_facts
+    if all(self.get(k) is v for k, v in bcond):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Ctrl-C caught... cleaning up processes
+[proxy:0@flowlab2] HYD_pmcd_pmip_control_cmd_cb (proxy/pmip_cb.c:487): assert (!closed) failed
+[proxy:0@flowlab2] HYDT_dmxu_poll_wait_for_event (lib/tools/demux/demux_poll.c:76): callback returned error status
+[proxy:0@flowlab2] main (proxy/pmip.c:122): demux engine error waiting for event
+[mpiexec@flowlab2] HYDT_bscu_wait_for_completion (lib/tools/bootstrap/utils/bscu_wait.c:109): one of the processes terminated badly; aborting
+[mpiexec@flowlab2] HYDT_bsci_wait_for_completion (lib/tools/bootstrap/src/bsci_wait.c:21): launcher returned error waiting for completion
+[mpiexec@flowlab2] HYD_pmci_wait_for_completion (mpiexec/pmiserv_pmci.c:189): launcher returned error waiting for completion
+[mpiexec@flowlab2] main (mpiexec/mpiexec.c:260): process manager error waiting for completion

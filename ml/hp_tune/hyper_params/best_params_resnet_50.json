@@ -1,0 +1,14 @@
+{
+  "hyperparameters": {
+    "lr": 0.0012199668475623272,
+    "weight_decay": 0.00032379826052113,
+    "kernel_size": 3,
+    "stride": 2,
+    "padding": 2,
+    "batch_size": 32,
+    "scheduler_factor": 0.11590671587549593,
+    "scheduler_patience": 10,
+    "scheduler_threshold": 0.0017160400686953745
+  },
+  "validation_loss": 0.002920560771599412
+}

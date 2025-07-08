@@ -1,0 +1,13 @@
+INFO:    User not listed in /etc/subuid, trying root-mapped namespace
+INFO:    The %post section will be run under the fakeroot command
+INFO:    Starting build...
+INFO:    Verifying bootstrap image /projects/jogr4852/clotsimnet/alpine_help/container/fenics_stnb_gmsh_v4.sif
+INFO:    Extracting local image...
+INFO:    Running post scriptlet
++ pip3 install piexif --no-cache-dir
+Collecting piexif
+  Downloading piexif-1.1.3-py2.py3-none-any.whl (20 kB)
+Installing collected packages: piexif
+Successfully installed piexif-1.1.3
+INFO:    Creating SIF file...
+INFO:    Build complete: fenics_stnb_gmsh_v5.sif

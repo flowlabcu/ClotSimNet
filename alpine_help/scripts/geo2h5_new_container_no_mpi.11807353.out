@@ -1,0 +1,4 @@
+/home/jogr4852/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Number of combinations: 2
+CSV file saved to /projects/jogr4852/clotsimnet/alpine_help/scripts/small_test/tasks.csv

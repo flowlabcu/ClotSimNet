@@ -1,0 +1,2784 @@
+nohup: ignoring input
+Root directory: /mnt/ssd1/joshgregory/clotsimnet_3d_300
+Processing cases:   0%|          | 0/309 [00:00<?, ?it/s]Processing cases:   0%|          | 1/309 [00:22<1:53:03, 22.03s/it]Processing cases:   1%|          | 2/309 [00:44<1:53:50, 22.25s/it]Processing cases:   1%|          | 3/309 [01:06<1:52:23, 22.04s/it]Processing cases:   1%|▏         | 4/309 [01:28<1:52:00, 22.03s/it]Processing cases:   2%|▏         | 5/309 [01:49<1:49:48, 21.67s/it]Processing cases:   2%|▏         | 6/309 [02:10<1:48:05, 21.40s/it]Processing cases:   2%|▏         | 7/309 [02:31<1:48:09, 21.49s/it]Processing cases:   3%|▎         | 8/309 [02:54<1:49:46, 21.88s/it]Processing cases:   3%|▎         | 9/309 [03:15<1:47:59, 21.60s/it]Processing cases:   3%|▎         | 10/309 [03:37<1:47:34, 21.59s/it]Processing cases:   4%|▎         | 11/309 [03:59<1:47:48, 21.71s/it]Processing cases:   4%|▍         | 12/309 [04:20<1:47:44, 21.77s/it]Processing cases:   4%|▍         | 13/309 [04:43<1:47:52, 21.87s/it]Processing cases:   5%|▍         | 14/309 [05:04<1:47:04, 21.78s/it]Processing cases:   5%|▍         | 15/309 [05:25<1:45:55, 21.62s/it]Processing cases:   5%|▌         | 16/309 [05:47<1:44:56, 21.49s/it]Processing cases:   6%|▌         | 17/309 [06:08<1:44:42, 21.52s/it]Processing cases:   6%|▌         | 18/309 [06:30<1:44:46, 21.60s/it]Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05441/output/bcc_lattice_rp_05441.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05441/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05783/output/bcc_lattice_rp_05783.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05783/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05648/output/bcc_lattice_rp_05648.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05648/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05434/output/bcc_lattice_rp_05434.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05434/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05874/output/bcc_lattice_rp_05874.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05874/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05892/output/bcc_lattice_rp_05892.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05892/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05432/output/bcc_lattice_rp_05432.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05432/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05835/output/bcc_lattice_rp_05835.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05835/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05927/output/bcc_lattice_rp_05927.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05927/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05937/output/bcc_lattice_rp_05937.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05937/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05863/output/bcc_lattice_rp_05863.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05863/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05809/output/bcc_lattice_rp_05809.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05809/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05508/output/bcc_lattice_rp_05508.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05508/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05643/output/bcc_lattice_rp_05643.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05643/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_06000/output/bcc_lattice_rp_06000.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_06000/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05974/output/bcc_lattice_rp_05974.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05974/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05676/output/bcc_lattice_rp_05676.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05676/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05567/output/bcc_lattice_rp_05567.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05567/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05581/output/bcc_lattice_rp_05581.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Processing cases:   6%|▌         | 19/309 [06:52<1:44:50, 21.69s/it]Processing cases:   6%|▋         | 20/309 [07:14<1:44:26, 21.68s/it]Processing cases:   7%|▋         | 21/309 [07:35<1:43:31, 21.57s/it]Processing cases:   7%|▋         | 22/309 [07:56<1:43:10, 21.57s/it]Processing cases:   7%|▋         | 23/309 [08:18<1:42:56, 21.59s/it]Processing cases:   8%|▊         | 24/309 [08:40<1:42:28, 21.58s/it]Processing cases:   8%|▊         | 25/309 [09:01<1:41:58, 21.54s/it]Processing cases:   8%|▊         | 26/309 [09:23<1:42:14, 21.68s/it]Processing cases:   9%|▊         | 27/309 [09:44<1:41:10, 21.53s/it]Processing cases:   9%|▉         | 28/309 [10:06<1:40:34, 21.48s/it]Processing cases:   9%|▉         | 29/309 [10:27<1:40:29, 21.53s/it]Processing cases:  10%|▉         | 30/309 [10:49<1:40:26, 21.60s/it]Processing cases:  10%|█         | 31/309 [11:10<1:39:45, 21.53s/it]Processing cases:  10%|█         | 32/309 [11:32<1:39:37, 21.58s/it]Processing cases:  11%|█         | 33/309 [11:53<1:38:52, 21.49s/it]Processing cases:  11%|█         | 34/309 [12:15<1:38:39, 21.52s/it]Processing cases:  11%|█▏        | 35/309 [12:37<1:38:45, 21.63s/it]Processing cases:  12%|█▏        | 36/309 [12:59<1:38:36, 21.67s/it]Processing cases:  12%|█▏        | 37/309 [13:20<1:38:12, 21.66s/it]Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05581/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05851/output/bcc_lattice_rp_05851.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05851/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05981/output/bcc_lattice_rp_05981.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05981/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05728/output/bcc_lattice_rp_05728.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05728/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05598/output/bcc_lattice_rp_05598.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05598/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05779/output/bcc_lattice_rp_05779.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05779/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05890/output/bcc_lattice_rp_05890.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05890/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05459/output/bcc_lattice_rp_05459.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05459/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05883/output/bcc_lattice_rp_05883.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05883/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05506/output/bcc_lattice_rp_05506.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05506/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05611/output/bcc_lattice_rp_05611.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05611/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05755/output/bcc_lattice_rp_05755.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05755/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05996/output/bcc_lattice_rp_05996.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05996/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05811/output/bcc_lattice_rp_05811.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05811/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05949/output/bcc_lattice_rp_05949.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05949/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05622/output/bcc_lattice_rp_05622.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05622/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05445/output/bcc_lattice_rp_05445.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05445/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05556/output/bcc_lattice_rp_05556.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05556/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05826/output/bcc_lattice_rp_05826.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05826/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  12%|█▏        | 38/309 [13:42<1:37:56, 21.68s/it]Processing cases:  13%|█▎        | 39/309 [14:03<1:37:23, 21.64s/it]Processing cases:  13%|█▎        | 40/309 [14:25<1:37:00, 21.64s/it]Processing cases:  13%|█▎        | 41/309 [14:46<1:36:04, 21.51s/it]Processing cases:  14%|█▎        | 42/309 [15:08<1:35:37, 21.49s/it]Processing cases:  14%|█▍        | 43/309 [15:29<1:34:54, 21.41s/it]Processing cases:  14%|█▍        | 44/309 [15:51<1:35:21, 21.59s/it]Processing cases:  15%|█▍        | 45/309 [16:12<1:34:44, 21.53s/it]Processing cases:  15%|█▍        | 46/309 [16:35<1:35:07, 21.70s/it]Processing cases:  15%|█▌        | 47/309 [16:56<1:35:03, 21.77s/it]Processing cases:  16%|█▌        | 48/309 [17:18<1:33:55, 21.59s/it]Processing cases:  16%|█▌        | 49/309 [17:39<1:33:08, 21.49s/it]Processing cases:  16%|█▌        | 50/309 [18:00<1:32:25, 21.41s/it]Processing cases:  17%|█▋        | 51/309 [18:21<1:31:47, 21.35s/it]Processing cases:  17%|█▋        | 52/309 [18:42<1:31:04, 21.26s/it]Processing cases:  17%|█▋        | 53/309 [19:03<1:30:33, 21.23s/it]Processing cases:  17%|█▋        | 54/309 [19:25<1:30:47, 21.36s/it]Processing cases:  18%|█▊        | 55/309 [19:47<1:30:43, 21.43s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05617/output/bcc_lattice_rp_05617.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05617/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05687/output/bcc_lattice_rp_05687.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05687/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05668/output/bcc_lattice_rp_05668.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05668/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05968/output/bcc_lattice_rp_05968.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05968/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05683/output/bcc_lattice_rp_05683.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05683/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05583/output/bcc_lattice_rp_05583.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05583/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05450/output/bcc_lattice_rp_05450.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05450/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05456/output/bcc_lattice_rp_05456.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05456/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05729/output/bcc_lattice_rp_05729.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05729/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05763/output/bcc_lattice_rp_05763.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05763/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05842/output/bcc_lattice_rp_05842.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05842/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05563/output/bcc_lattice_rp_05563.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05563/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05759/output/bcc_lattice_rp_05759.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05759/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05639/output/bcc_lattice_rp_05639.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05639/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05844/output/bcc_lattice_rp_05844.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05844/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05870/output/bcc_lattice_rp_05870.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05870/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05628/output/bcc_lattice_rp_05628.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05628/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05872/output/bcc_lattice_rp_05872.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05872/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05959/output/bcc_lattice_rp_05959.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  18%|█▊        | 56/309 [20:08<1:30:02, 21.35s/it]Processing cases:  18%|█▊        | 57/309 [20:30<1:30:05, 21.45s/it]Processing cases:  19%|█▉        | 58/309 [20:51<1:29:46, 21.46s/it]Processing cases:  19%|█▉        | 59/309 [21:13<1:29:37, 21.51s/it]Processing cases:  19%|█▉        | 60/309 [21:34<1:29:25, 21.55s/it]Processing cases:  20%|█▉        | 61/309 [21:56<1:29:16, 21.60s/it]Processing cases:  20%|██        | 62/309 [22:18<1:29:10, 21.66s/it]Processing cases:  20%|██        | 63/309 [22:39<1:28:37, 21.62s/it]Processing cases:  21%|██        | 64/309 [23:01<1:28:01, 21.56s/it]Processing cases:  21%|██        | 65/309 [23:22<1:27:48, 21.59s/it]Processing cases:  21%|██▏       | 66/309 [23:44<1:27:56, 21.71s/it]Processing cases:  22%|██▏       | 67/309 [24:06<1:26:49, 21.52s/it]Processing cases:  22%|██▏       | 68/309 [24:27<1:26:30, 21.54s/it]Processing cases:  22%|██▏       | 69/309 [24:48<1:25:50, 21.46s/it]Processing cases:  23%|██▎       | 70/309 [25:09<1:24:55, 21.32s/it]Processing cases:  23%|██▎       | 71/309 [25:31<1:25:00, 21.43s/it]Processing cases:  23%|██▎       | 72/309 [25:52<1:24:31, 21.40s/it]Processing cases:  24%|██▎       | 73/309 [26:14<1:24:24, 21.46s/it]Processing cases:  24%|██▍       | 74/309 [26:36<1:24:23, 21.55s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05959/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05861/output/bcc_lattice_rp_05861.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05861/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05901/output/bcc_lattice_rp_05901.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05901/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05824/output/bcc_lattice_rp_05824.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05824/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05704/output/bcc_lattice_rp_05704.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05704/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05602/output/bcc_lattice_rp_05602.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05602/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05548/output/bcc_lattice_rp_05548.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05548/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05650/output/bcc_lattice_rp_05650.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05650/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05485/output/bcc_lattice_rp_05485.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05485/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05572/output/bcc_lattice_rp_05572.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05572/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05469/output/bcc_lattice_rp_05469.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05469/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05896/output/bcc_lattice_rp_05896.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05896/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05887/output/bcc_lattice_rp_05887.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05887/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05593/output/bcc_lattice_rp_05593.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05593/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05876/output/bcc_lattice_rp_05876.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05876/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05715/output/bcc_lattice_rp_05715.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05715/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05924/output/bcc_lattice_rp_05924.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05924/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05681/output/bcc_lattice_rp_05681.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05681/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05574/output/bcc_lattice_rp_05574.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05574/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  24%|██▍       | 75/309 [26:57<1:24:11, 21.59s/it]Processing cases:  25%|██▍       | 76/309 [27:19<1:23:40, 21.55s/it]Processing cases:  25%|██▍       | 77/309 [27:41<1:23:26, 21.58s/it]Processing cases:  25%|██▌       | 78/309 [28:02<1:22:25, 21.41s/it]Processing cases:  26%|██▌       | 79/309 [28:23<1:21:41, 21.31s/it]Processing cases:  26%|██▌       | 80/309 [28:45<1:22:25, 21.59s/it]Processing cases:  26%|██▌       | 81/309 [29:07<1:22:06, 21.61s/it]Processing cases:  27%|██▋       | 82/309 [29:28<1:21:43, 21.60s/it]Processing cases:  27%|██▋       | 83/309 [29:50<1:21:45, 21.71s/it]Processing cases:  27%|██▋       | 84/309 [30:12<1:21:32, 21.74s/it]Processing cases:  28%|██▊       | 85/309 [30:34<1:21:11, 21.75s/it]Processing cases:  28%|██▊       | 86/309 [30:55<1:20:37, 21.69s/it]Processing cases:  28%|██▊       | 87/309 [31:17<1:20:06, 21.65s/it]Processing cases:  28%|██▊       | 88/309 [31:39<1:19:53, 21.69s/it]Processing cases:  29%|██▉       | 89/309 [32:00<1:19:32, 21.69s/it]Processing cases:  29%|██▉       | 90/309 [32:22<1:19:19, 21.73s/it]Processing cases:  29%|██▉       | 91/309 [32:44<1:19:10, 21.79s/it]Processing cases:  30%|██▉       | 92/309 [33:06<1:18:33, 21.72s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05657/output/bcc_lattice_rp_05657.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05657/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05918/output/bcc_lattice_rp_05918.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05918/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05644/output/bcc_lattice_rp_05644.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05644/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05948/output/bcc_lattice_rp_05948.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05948/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05929/output/bcc_lattice_rp_05929.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05929/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05837/output/bcc_lattice_rp_05837.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05837/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05709/output/bcc_lattice_rp_05709.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05709/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05885/output/bcc_lattice_rp_05885.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05885/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05735/output/bcc_lattice_rp_05735.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05735/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05522/output/bcc_lattice_rp_05522.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05522/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05604/output/bcc_lattice_rp_05604.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05604/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05911/output/bcc_lattice_rp_05911.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05911/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05900/output/bcc_lattice_rp_05900.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05900/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05785/output/bcc_lattice_rp_05785.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05785/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05674/output/bcc_lattice_rp_05674.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05674/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05820/output/bcc_lattice_rp_05820.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05820/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05495/output/bcc_lattice_rp_05495.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05495/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05879/output/bcc_lattice_rp_05879.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05879/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05630/output/bcc_lattice_rp_05630.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  30%|███       | 93/309 [33:27<1:18:10, 21.72s/it]Processing cases:  30%|███       | 94/309 [33:49<1:17:50, 21.72s/it]Processing cases:  31%|███       | 95/309 [34:10<1:17:00, 21.59s/it]Processing cases:  31%|███       | 96/309 [34:32<1:16:41, 21.60s/it]Processing cases:  31%|███▏      | 97/309 [34:54<1:16:28, 21.65s/it]Processing cases:  32%|███▏      | 98/309 [35:16<1:16:28, 21.75s/it]Processing cases:  32%|███▏      | 99/309 [35:38<1:16:23, 21.83s/it]Processing cases:  32%|███▏      | 100/309 [35:59<1:16:01, 21.82s/it]Processing cases:  33%|███▎      | 101/309 [36:21<1:15:38, 21.82s/it]Processing cases:  33%|███▎      | 102/309 [36:43<1:15:08, 21.78s/it]Processing cases:  33%|███▎      | 103/309 [37:05<1:14:37, 21.74s/it]Processing cases:  34%|███▎      | 104/309 [37:26<1:14:15, 21.73s/it]Processing cases:  34%|███▍      | 105/309 [37:48<1:13:34, 21.64s/it]Processing cases:  34%|███▍      | 106/309 [38:09<1:12:57, 21.56s/it]Processing cases:  35%|███▍      | 107/309 [38:31<1:12:47, 21.62s/it]Processing cases:  35%|███▍      | 108/309 [38:52<1:12:02, 21.50s/it]Processing cases:  35%|███▌      | 109/309 [39:14<1:12:02, 21.61s/it]Processing cases:  36%|███▌      | 110/309 [39:37<1:12:52, 21.97s/it]Processing cases:  36%|███▌      | 111/309 [39:59<1:12:40, 22.02s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05630/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05655/output/bcc_lattice_rp_05655.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05655/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05979/output/bcc_lattice_rp_05979.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05979/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05613/output/bcc_lattice_rp_05613.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05613/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05792/output/bcc_lattice_rp_05792.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05792/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05452/output/bcc_lattice_rp_05452.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05452/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05752/output/bcc_lattice_rp_05752.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05752/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05716/output/bcc_lattice_rp_05716.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05716/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05800/output/bcc_lattice_rp_05800.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05800/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05606/output/bcc_lattice_rp_05606.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05606/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05920/output/bcc_lattice_rp_05920.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05920/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05766/output/bcc_lattice_rp_05766.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05766/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05975/output/bcc_lattice_rp_05975.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05975/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05983/output/bcc_lattice_rp_05983.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05983/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05794/output/bcc_lattice_rp_05794.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05794/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05966/output/bcc_lattice_rp_05966.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05966/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05741/output/bcc_lattice_rp_05741.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05741/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05520/output/bcc_lattice_rp_05520.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05520/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05437/output/bcc_lattice_rp_05437.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05437/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  36%|███▌      | 112/309 [40:21<1:12:10, 21.98s/it]Processing cases:  37%|███▋      | 113/309 [40:42<1:11:05, 21.76s/it]Processing cases:  37%|███▋      | 114/309 [41:04<1:10:44, 21.77s/it]Processing cases:  37%|███▋      | 115/309 [41:26<1:10:28, 21.79s/it]Processing cases:  38%|███▊      | 116/309 [41:48<1:10:13, 21.83s/it]Processing cases:  38%|███▊      | 117/309 [42:10<1:10:00, 21.88s/it]Processing cases:  38%|███▊      | 118/309 [42:31<1:09:23, 21.80s/it]Processing cases:  39%|███▊      | 119/309 [42:53<1:08:56, 21.77s/it]Processing cases:  39%|███▉      | 120/309 [43:15<1:08:32, 21.76s/it]Processing cases:  39%|███▉      | 121/309 [43:36<1:08:07, 21.74s/it]Processing cases:  39%|███▉      | 122/309 [43:58<1:07:37, 21.70s/it]Processing cases:  40%|███▉      | 123/309 [44:20<1:07:23, 21.74s/it]Processing cases:  40%|████      | 124/309 [44:42<1:07:05, 21.76s/it]Processing cases:  40%|████      | 125/309 [45:03<1:06:41, 21.75s/it]Processing cases:  41%|████      | 126/309 [45:25<1:06:18, 21.74s/it]Processing cases:  41%|████      | 127/309 [45:47<1:05:56, 21.74s/it]Processing cases:  41%|████▏     | 128/309 [46:09<1:05:39, 21.76s/it]Processing cases:  42%|████▏     | 129/309 [46:30<1:05:18, 21.77s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05805/output/bcc_lattice_rp_05805.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05805/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05990/output/bcc_lattice_rp_05990.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05990/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05774/output/bcc_lattice_rp_05774.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05774/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05530/output/bcc_lattice_rp_05530.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05530/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05772/output/bcc_lattice_rp_05772.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05772/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05498/output/bcc_lattice_rp_05498.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05498/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05942/output/bcc_lattice_rp_05942.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05942/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05670/output/bcc_lattice_rp_05670.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05670/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05596/output/bcc_lattice_rp_05596.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05596/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05846/output/bcc_lattice_rp_05846.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05846/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05866/output/bcc_lattice_rp_05866.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05866/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05463/output/bcc_lattice_rp_05463.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05463/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05480/output/bcc_lattice_rp_05480.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05480/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05839/output/bcc_lattice_rp_05839.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05839/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05626/output/bcc_lattice_rp_05626.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05626/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05746/output/bcc_lattice_rp_05746.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05746/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05813/output/bcc_lattice_rp_05813.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05813/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05855/output/bcc_lattice_rp_05855.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05855/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05565/output/bcc_lattice_rp_05565.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  42%|████▏     | 130/309 [46:53<1:05:27, 21.94s/it]Processing cases:  42%|████▏     | 131/309 [47:14<1:04:40, 21.80s/it]Processing cases:  43%|████▎     | 132/309 [47:36<1:03:54, 21.66s/it]Processing cases:  43%|████▎     | 133/309 [47:57<1:03:41, 21.71s/it]Processing cases:  43%|████▎     | 134/309 [48:19<1:03:37, 21.81s/it]Processing cases:  44%|████▎     | 135/309 [48:41<1:03:10, 21.79s/it]Processing cases:  44%|████▍     | 136/309 [49:03<1:02:54, 21.82s/it]Processing cases:  44%|████▍     | 137/309 [49:25<1:02:53, 21.94s/it]Processing cases:  45%|████▍     | 138/309 [49:47<1:02:37, 21.97s/it]Processing cases:  45%|████▍     | 139/309 [50:09<1:02:13, 21.96s/it]Processing cases:  45%|████▌     | 140/309 [50:31<1:01:47, 21.94s/it]Processing cases:  46%|████▌     | 141/309 [50:53<1:01:33, 21.98s/it]Processing cases:  46%|████▌     | 142/309 [51:15<1:01:03, 21.94s/it]Processing cases:  46%|████▋     | 143/309 [51:37<1:00:36, 21.90s/it]Processing cases:  47%|████▋     | 144/309 [51:58<59:58, 21.81s/it]  Processing cases:  47%|████▋     | 145/309 [52:20<59:16, 21.69s/it]Processing cases:  47%|████▋     | 146/309 [52:41<58:46, 21.64s/it]Processing cases:  48%|████▊     | 147/309 [53:03<58:44, 21.76s/it]Processing cases:  48%|████▊     | 148/309 [53:25<58:27, 21.79s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05565/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05591/output/bcc_lattice_rp_05591.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05591/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05938/output/bcc_lattice_rp_05938.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05938/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05543/output/bcc_lattice_rp_05543.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05543/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05757/output/bcc_lattice_rp_05757.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05757/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05702/output/bcc_lattice_rp_05702.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05702/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05517/output/bcc_lattice_rp_05517.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05517/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05833/output/bcc_lattice_rp_05833.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05833/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05652/output/bcc_lattice_rp_05652.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05652/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05624/output/bcc_lattice_rp_05624.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05624/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05881/output/bcc_lattice_rp_05881.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05881/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05977/output/bcc_lattice_rp_05977.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05977/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05724/output/bcc_lattice_rp_05724.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05724/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05894/output/bcc_lattice_rp_05894.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05894/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05955/output/bcc_lattice_rp_05955.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05955/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05994/output/bcc_lattice_rp_05994.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05994/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05700/output/bcc_lattice_rp_05700.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05700/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05489/output/bcc_lattice_rp_05489.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05489/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05711/output/bcc_lattice_rp_05711.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05711/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  48%|████▊     | 149/309 [53:47<57:56, 21.73s/it]Processing cases:  49%|████▊     | 150/309 [54:09<57:49, 21.82s/it]Processing cases:  49%|████▉     | 151/309 [54:31<57:25, 21.81s/it]Processing cases:  49%|████▉     | 152/309 [54:53<57:10, 21.85s/it]Processing cases:  50%|████▉     | 153/309 [55:14<56:43, 21.82s/it]Processing cases:  50%|████▉     | 154/309 [55:36<56:30, 21.87s/it]Processing cases:  50%|█████     | 155/309 [55:58<56:05, 21.86s/it]Processing cases:  50%|█████     | 156/309 [56:20<55:45, 21.87s/it]Processing cases:  51%|█████     | 157/309 [56:42<55:36, 21.95s/it]Processing cases:  51%|█████     | 158/309 [57:04<55:20, 21.99s/it]Processing cases:  51%|█████▏    | 159/309 [57:26<54:45, 21.90s/it]Processing cases:  52%|█████▏    | 160/309 [57:48<54:17, 21.86s/it]Processing cases:  52%|█████▏    | 161/309 [58:10<53:54, 21.86s/it]Processing cases:  52%|█████▏    | 162/309 [58:31<53:17, 21.75s/it]Processing cases:  53%|█████▎    | 163/309 [58:53<52:44, 21.68s/it]Processing cases:  53%|█████▎    | 164/309 [59:14<52:23, 21.68s/it]Processing cases:  53%|█████▎    | 165/309 [59:37<52:22, 21.82s/it]Processing cases:  54%|█████▎    | 166/309 [59:58<51:47, 21.73s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05957/output/bcc_lattice_rp_05957.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05957/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05448/output/bcc_lattice_rp_05448.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05448/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05787/output/bcc_lattice_rp_05787.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05787/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05435/output/bcc_lattice_rp_05435.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05435/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05818/output/bcc_lattice_rp_05818.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05818/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05511/output/bcc_lattice_rp_05511.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05511/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05594/output/bcc_lattice_rp_05594.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05594/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05694/output/bcc_lattice_rp_05694.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05694/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05515/output/bcc_lattice_rp_05515.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05515/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05544/output/bcc_lattice_rp_05544.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05544/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05857/output/bcc_lattice_rp_05857.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05857/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05877/output/bcc_lattice_rp_05877.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05877/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05768/output/bcc_lattice_rp_05768.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05768/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05998/output/bcc_lattice_rp_05998.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05998/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05667/output/bcc_lattice_rp_05667.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05667/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05722/output/bcc_lattice_rp_05722.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05722/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05428/output/bcc_lattice_rp_05428.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05428/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05698/output/bcc_lattice_rp_05698.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05698/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05850/output/bcc_lattice_rp_05850.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  54%|█████▍    | 167/309 [1:00:20<51:22, 21.71s/it]Processing cases:  54%|█████▍    | 168/309 [1:00:41<51:01, 21.71s/it]Processing cases:  55%|█████▍    | 169/309 [1:01:03<50:41, 21.72s/it]Processing cases:  55%|█████▌    | 170/309 [1:01:25<50:19, 21.72s/it]Processing cases:  55%|█████▌    | 171/309 [1:01:47<50:02, 21.76s/it]Processing cases:  56%|█████▌    | 172/309 [1:02:08<49:16, 21.58s/it]Processing cases:  56%|█████▌    | 173/309 [1:02:29<48:54, 21.58s/it]Processing cases:  56%|█████▋    | 174/309 [1:02:51<48:16, 21.46s/it]Processing cases:  57%|█████▋    | 175/309 [1:03:11<47:25, 21.24s/it]Processing cases:  57%|█████▋    | 176/309 [1:03:32<46:46, 21.10s/it]Processing cases:  57%|█████▋    | 177/309 [1:03:53<46:35, 21.18s/it]Processing cases:  58%|█████▊    | 178/309 [1:04:15<46:19, 21.22s/it]Processing cases:  58%|█████▊    | 179/309 [1:04:36<45:56, 21.20s/it]Processing cases:  58%|█████▊    | 180/309 [1:04:57<45:41, 21.25s/it]Processing cases:  59%|█████▊    | 181/309 [1:05:18<45:11, 21.19s/it]Processing cases:  59%|█████▉    | 182/309 [1:05:39<44:41, 21.11s/it]Processing cases:  59%|█████▉    | 183/309 [1:06:00<44:20, 21.12s/it]Processing cases:  60%|█████▉    | 184/309 [1:06:22<44:13, 21.23s/it]Processing cases:  60%|█████▉    | 185/309 [1:06:43<44:00, 21.30s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05850/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05742/output/bcc_lattice_rp_05742.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05742/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05502/output/bcc_lattice_rp_05502.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05502/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05509/output/bcc_lattice_rp_05509.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05509/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05526/output/bcc_lattice_rp_05526.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05526/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05646/output/bcc_lattice_rp_05646.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05646/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05946/output/bcc_lattice_rp_05946.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05946/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05496/output/bcc_lattice_rp_05496.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05496/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05951/output/bcc_lattice_rp_05951.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05951/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05731/output/bcc_lattice_rp_05731.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05731/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05461/output/bcc_lattice_rp_05461.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05461/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05478/output/bcc_lattice_rp_05478.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05478/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05576/output/bcc_lattice_rp_05576.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05576/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05524/output/bcc_lattice_rp_05524.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05524/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05718/output/bcc_lattice_rp_05718.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05718/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05953/output/bcc_lattice_rp_05953.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05953/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05750/output/bcc_lattice_rp_05750.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05750/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05491/output/bcc_lattice_rp_05491.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05491/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05533/output/bcc_lattice_rp_05533.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05533/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  60%|██████    | 186/309 [1:07:04<43:28, 21.21s/it]Processing cases:  61%|██████    | 187/309 [1:07:25<42:57, 21.12s/it]Processing cases:  61%|██████    | 188/309 [1:07:47<42:41, 21.17s/it]Processing cases:  61%|██████    | 189/309 [1:08:08<42:16, 21.14s/it]Processing cases:  61%|██████▏   | 190/309 [1:08:29<41:58, 21.16s/it]Processing cases:  62%|██████▏   | 191/309 [1:08:50<41:40, 21.19s/it]Processing cases:  62%|██████▏   | 192/309 [1:09:12<41:28, 21.27s/it]Processing cases:  62%|██████▏   | 193/309 [1:09:33<41:06, 21.27s/it]Processing cases:  63%|██████▎   | 194/309 [1:09:54<40:48, 21.29s/it]Processing cases:  63%|██████▎   | 195/309 [1:10:15<40:10, 21.15s/it]Processing cases:  63%|██████▎   | 196/309 [1:10:36<39:53, 21.18s/it]Processing cases:  64%|██████▍   | 197/309 [1:10:58<39:37, 21.23s/it]Processing cases:  64%|██████▍   | 198/309 [1:11:19<39:16, 21.23s/it]Processing cases:  64%|██████▍   | 199/309 [1:11:40<39:03, 21.30s/it]Processing cases:  65%|██████▍   | 200/309 [1:12:01<38:37, 21.26s/it]Processing cases:  65%|██████▌   | 201/309 [1:12:23<38:18, 21.28s/it]Processing cases:  65%|██████▌   | 202/309 [1:12:44<38:06, 21.37s/it]Processing cases:  66%|██████▌   | 203/309 [1:13:05<37:35, 21.27s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05935/output/bcc_lattice_rp_05935.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05935/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05720/output/bcc_lattice_rp_05720.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05720/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05554/output/bcc_lattice_rp_05554.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05554/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05615/output/bcc_lattice_rp_05615.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05615/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05569/output/bcc_lattice_rp_05569.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05569/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05790/output/bcc_lattice_rp_05790.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05790/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05476/output/bcc_lattice_rp_05476.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05476/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05535/output/bcc_lattice_rp_05535.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05535/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05532/output/bcc_lattice_rp_05532.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05532/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05986/output/bcc_lattice_rp_05986.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05986/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05744/output/bcc_lattice_rp_05744.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05744/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05585/output/bcc_lattice_rp_05585.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05585/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05853/output/bcc_lattice_rp_05853.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05853/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05454/output/bcc_lattice_rp_05454.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05454/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05868/output/bcc_lattice_rp_05868.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05868/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05618/output/bcc_lattice_rp_05618.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05618/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05827/output/bcc_lattice_rp_05827.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05827/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05992/output/bcc_lattice_rp_05992.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05992/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05829/output/bcc_lattice_rp_05829.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  66%|██████▌   | 204/309 [1:13:27<37:15, 21.29s/it]Processing cases:  66%|██████▋   | 205/309 [1:13:48<36:51, 21.26s/it]Processing cases:  67%|██████▋   | 206/309 [1:14:09<36:28, 21.24s/it]Processing cases:  67%|██████▋   | 207/309 [1:14:30<36:03, 21.21s/it]Processing cases:  67%|██████▋   | 208/309 [1:14:52<35:48, 21.27s/it]Processing cases:  68%|██████▊   | 209/309 [1:15:13<35:25, 21.25s/it]Processing cases:  68%|██████▊   | 210/309 [1:15:34<35:05, 21.26s/it]Processing cases:  68%|██████▊   | 211/309 [1:15:55<34:43, 21.26s/it]Processing cases:  69%|██████▊   | 212/309 [1:16:16<34:15, 21.20s/it]Processing cases:  69%|██████▉   | 213/309 [1:16:38<34:03, 21.29s/it]Processing cases:  69%|██████▉   | 214/309 [1:17:00<33:49, 21.36s/it]Processing cases:  70%|██████▉   | 215/309 [1:17:21<33:24, 21.33s/it]Processing cases:  70%|██████▉   | 216/309 [1:17:42<32:56, 21.26s/it]Processing cases:  70%|███████   | 217/309 [1:18:03<32:29, 21.19s/it]Processing cases:  71%|███████   | 218/309 [1:18:24<32:11, 21.23s/it]Processing cases:  71%|███████   | 219/309 [1:18:45<31:46, 21.19s/it]Processing cases:  71%|███████   | 220/309 [1:19:06<31:22, 21.15s/it]Processing cases:  72%|███████▏  | 221/309 [1:19:27<30:58, 21.12s/it]Processing cases:  72%|███████▏  | 222/309 [1:19:48<30:34, 21.09s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05829/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05831/output/bcc_lattice_rp_05831.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05831/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05803/output/bcc_lattice_rp_05803.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05803/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05589/output/bcc_lattice_rp_05589.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05589/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05471/output/bcc_lattice_rp_05471.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05471/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05816/output/bcc_lattice_rp_05816.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05816/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05679/output/bcc_lattice_rp_05679.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05679/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05789/output/bcc_lattice_rp_05789.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05789/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05654/output/bcc_lattice_rp_05654.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05654/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05541/output/bcc_lattice_rp_05541.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05541/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05504/output/bcc_lattice_rp_05504.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05504/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05802/output/bcc_lattice_rp_05802.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05802/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05864/output/bcc_lattice_rp_05864.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05864/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05964/output/bcc_lattice_rp_05964.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05964/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05733/output/bcc_lattice_rp_05733.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05733/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05600/output/bcc_lattice_rp_05600.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05600/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05907/output/bcc_lattice_rp_05907.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05907/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05848/output/bcc_lattice_rp_05848.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05848/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05822/output/bcc_lattice_rp_05822.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05822/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  72%|███████▏  | 223/309 [1:20:09<30:10, 21.05s/it]Processing cases:  72%|███████▏  | 224/309 [1:20:31<29:52, 21.09s/it]Processing cases:  73%|███████▎  | 225/309 [1:20:52<29:41, 21.21s/it]Processing cases:  73%|███████▎  | 226/309 [1:21:13<29:25, 21.27s/it]Processing cases:  73%|███████▎  | 227/309 [1:21:35<29:10, 21.35s/it]Processing cases:  74%|███████▍  | 228/309 [1:21:56<28:50, 21.36s/it]Processing cases:  74%|███████▍  | 229/309 [1:22:18<28:24, 21.30s/it]Processing cases:  74%|███████▍  | 230/309 [1:22:39<27:59, 21.26s/it]Processing cases:  75%|███████▍  | 231/309 [1:23:00<27:37, 21.25s/it]Processing cases:  75%|███████▌  | 232/309 [1:23:21<27:12, 21.20s/it]Processing cases:  75%|███████▌  | 233/309 [1:23:42<26:47, 21.15s/it]Processing cases:  76%|███████▌  | 234/309 [1:24:03<26:25, 21.14s/it]Processing cases:  76%|███████▌  | 235/309 [1:24:24<26:07, 21.18s/it]Processing cases:  76%|███████▋  | 236/309 [1:24:46<25:43, 21.14s/it]Processing cases:  77%|███████▋  | 237/309 [1:25:06<25:16, 21.06s/it]Processing cases:  77%|███████▋  | 238/309 [1:25:28<24:59, 21.12s/it]Processing cases:  77%|███████▋  | 239/309 [1:25:49<24:38, 21.13s/it]Processing cases:  78%|███████▊  | 240/309 [1:26:10<24:15, 21.09s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05972/output/bcc_lattice_rp_05972.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05972/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05689/output/bcc_lattice_rp_05689.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05689/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05737/output/bcc_lattice_rp_05737.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05737/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05519/output/bcc_lattice_rp_05519.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05519/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05467/output/bcc_lattice_rp_05467.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05467/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05796/output/bcc_lattice_rp_05796.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05796/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05985/output/bcc_lattice_rp_05985.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05985/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05888/output/bcc_lattice_rp_05888.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05888/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05580/output/bcc_lattice_rp_05580.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05580/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05578/output/bcc_lattice_rp_05578.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05578/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05944/output/bcc_lattice_rp_05944.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05944/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05691/output/bcc_lattice_rp_05691.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05691/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05482/output/bcc_lattice_rp_05482.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05482/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05661/output/bcc_lattice_rp_05661.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05661/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05931/output/bcc_lattice_rp_05931.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05931/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05659/output/bcc_lattice_rp_05659.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05659/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05672/output/bcc_lattice_rp_05672.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05672/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05633/output/bcc_lattice_rp_05633.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05633/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05472/output/bcc_lattice_rp_05472.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  78%|███████▊  | 241/309 [1:26:31<24:00, 21.19s/it]Processing cases:  78%|███████▊  | 242/309 [1:26:53<23:44, 21.26s/it]Processing cases:  79%|███████▊  | 243/309 [1:27:14<23:19, 21.20s/it]Processing cases:  79%|███████▉  | 244/309 [1:27:35<22:52, 21.11s/it]Processing cases:  79%|███████▉  | 245/309 [1:27:56<22:34, 21.16s/it]Processing cases:  80%|███████▉  | 246/309 [1:28:17<22:14, 21.18s/it]Processing cases:  80%|███████▉  | 247/309 [1:28:39<21:58, 21.27s/it]Processing cases:  80%|████████  | 248/309 [1:29:00<21:39, 21.30s/it]Processing cases:  81%|████████  | 249/309 [1:29:21<21:16, 21.28s/it]Processing cases:  81%|████████  | 250/309 [1:29:42<20:54, 21.26s/it]Processing cases:  81%|████████  | 251/309 [1:30:03<20:29, 21.20s/it]Processing cases:  82%|████████▏ | 252/309 [1:30:25<20:10, 21.24s/it]Processing cases:  82%|████████▏ | 253/309 [1:30:46<19:45, 21.17s/it]Processing cases:  82%|████████▏ | 254/309 [1:31:07<19:24, 21.17s/it]Processing cases:  83%|████████▎ | 255/309 [1:31:28<19:02, 21.16s/it]Processing cases:  83%|████████▎ | 256/309 [1:31:50<18:46, 21.25s/it]Processing cases:  83%|████████▎ | 257/309 [1:32:11<18:29, 21.33s/it]Processing cases:  83%|████████▎ | 258/309 [1:32:33<18:09, 21.36s/it]Processing cases:  84%|████████▍ | 259/309 [1:32:54<17:48, 21.36s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05472/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05483/output/bcc_lattice_rp_05483.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05483/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05814/output/bcc_lattice_rp_05814.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05814/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05962/output/bcc_lattice_rp_05962.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05962/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05748/output/bcc_lattice_rp_05748.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05748/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05753/output/bcc_lattice_rp_05753.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05753/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05561/output/bcc_lattice_rp_05561.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05561/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05641/output/bcc_lattice_rp_05641.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05641/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05607/output/bcc_lattice_rp_05607.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05607/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05726/output/bcc_lattice_rp_05726.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05726/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05940/output/bcc_lattice_rp_05940.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05940/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05765/output/bcc_lattice_rp_05765.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05765/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05840/output/bcc_lattice_rp_05840.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05840/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05609/output/bcc_lattice_rp_05609.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05609/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05705/output/bcc_lattice_rp_05705.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05705/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05776/output/bcc_lattice_rp_05776.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05776/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05798/output/bcc_lattice_rp_05798.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05798/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05696/output/bcc_lattice_rp_05696.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05696/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05922/output/bcc_lattice_rp_05922.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05922/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  84%|████████▍ | 260/309 [1:33:15<17:26, 21.35s/it]Processing cases:  84%|████████▍ | 261/309 [1:33:38<17:20, 21.68s/it]Processing cases:  85%|████████▍ | 262/309 [1:33:59<16:56, 21.64s/it]Processing cases:  85%|████████▌ | 263/309 [1:34:21<16:32, 21.57s/it]Processing cases:  85%|████████▌ | 264/309 [1:34:42<16:07, 21.50s/it]Processing cases:  86%|████████▌ | 265/309 [1:35:05<16:00, 21.83s/it]Processing cases:  86%|████████▌ | 266/309 [1:35:27<15:46, 22.00s/it]Processing cases:  86%|████████▋ | 267/309 [1:35:50<15:32, 22.20s/it]Processing cases:  87%|████████▋ | 268/309 [1:36:11<14:59, 21.95s/it]Processing cases:  87%|████████▋ | 269/309 [1:36:32<14:29, 21.74s/it]Processing cases:  87%|████████▋ | 270/309 [1:36:54<14:04, 21.66s/it]Processing cases:  88%|████████▊ | 271/309 [1:37:16<13:54, 21.96s/it]Processing cases:  88%|████████▊ | 272/309 [1:37:38<13:25, 21.78s/it]Processing cases:  88%|████████▊ | 273/309 [1:37:59<13:00, 21.69s/it]Processing cases:  89%|████████▊ | 274/309 [1:38:21<12:36, 21.63s/it]Processing cases:  89%|████████▉ | 275/309 [1:38:43<12:23, 21.85s/it]Processing cases:  89%|████████▉ | 276/309 [1:39:04<11:56, 21.72s/it]Processing cases:  90%|████████▉ | 277/309 [1:39:27<11:41, 21.92s/it]Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05933/output/bcc_lattice_rp_05933.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05933/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05557/output/bcc_lattice_rp_05557.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05557/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05685/output/bcc_lattice_rp_05685.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05685/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05903/output/bcc_lattice_rp_05903.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05903/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05912/output/bcc_lattice_rp_05912.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05912/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05443/output/bcc_lattice_rp_05443.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05443/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05770/output/bcc_lattice_rp_05770.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05770/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05528/output/bcc_lattice_rp_05528.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05528/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05914/output/bcc_lattice_rp_05914.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05914/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05916/output/bcc_lattice_rp_05916.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05916/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05898/output/bcc_lattice_rp_05898.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05898/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05446/output/bcc_lattice_rp_05446.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05446/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05713/output/bcc_lattice_rp_05713.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05713/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05537/output/bcc_lattice_rp_05537.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05537/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05909/output/bcc_lattice_rp_05909.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05909/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05637/output/bcc_lattice_rp_05637.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05637/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05859/output/bcc_lattice_rp_05859.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05859/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05546/output/bcc_lattice_rp_05546.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05546/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05559/output/bcc_lattice_rp_05559.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Processing cases:  90%|████████▉ | 278/309 [1:39:48<11:15, 21.77s/it]Processing cases:  90%|█████████ | 279/309 [1:40:10<10:48, 21.63s/it]Processing cases:  91%|█████████ | 280/309 [1:40:32<10:35, 21.92s/it]Processing cases:  91%|█████████ | 281/309 [1:40:55<10:19, 22.11s/it]Processing cases:  91%|█████████▏| 282/309 [1:41:17<10:00, 22.23s/it]Processing cases:  92%|█████████▏| 283/309 [1:41:39<09:32, 22.01s/it]Processing cases:  92%|█████████▏| 284/309 [1:42:01<09:14, 22.16s/it]Processing cases:  92%|█████████▏| 285/309 [1:42:24<08:54, 22.29s/it]Processing cases:  93%|█████████▎| 286/309 [1:42:46<08:33, 22.32s/it]Processing cases:  93%|█████████▎| 287/309 [1:43:09<08:13, 22.43s/it]Processing cases:  93%|█████████▎| 288/309 [1:43:30<07:44, 22.11s/it]Processing cases:  94%|█████████▎| 289/309 [1:43:53<07:25, 22.26s/it]Processing cases:  94%|█████████▍| 290/309 [1:44:16<07:05, 22.42s/it]Processing cases:  94%|█████████▍| 291/309 [1:44:37<06:38, 22.14s/it]Processing cases:  94%|█████████▍| 292/309 [1:45:00<06:20, 22.38s/it]Processing cases:  95%|█████████▍| 293/309 [1:45:23<05:59, 22.47s/it]Processing cases:  95%|█████████▌| 294/309 [1:45:44<05:31, 22.12s/it]Processing cases:  95%|█████████▌| 295/309 [1:46:07<05:10, 22.21s/it]Processing cases:  96%|█████████▌| 296/309 [1:46:29<04:49, 22.27s/it]Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05559/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05665/output/bcc_lattice_rp_05665.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05665/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05474/output/bcc_lattice_rp_05474.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05474/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05739/output/bcc_lattice_rp_05739.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05739/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05777/output/bcc_lattice_rp_05777.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05777/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05587/output/bcc_lattice_rp_05587.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05587/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05539/output/bcc_lattice_rp_05539.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05539/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05493/output/bcc_lattice_rp_05493.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05493/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05707/output/bcc_lattice_rp_05707.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05707/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05458/output/bcc_lattice_rp_05458.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05458/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05692/output/bcc_lattice_rp_05692.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05692/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05570/output/bcc_lattice_rp_05570.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05570/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05465/output/bcc_lattice_rp_05465.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05465/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05631/output/bcc_lattice_rp_05631.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05631/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05439/output/bcc_lattice_rp_05439.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05439/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05500/output/bcc_lattice_rp_05500.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05500/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05961/output/bcc_lattice_rp_05961.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05961/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05781/output/bcc_lattice_rp_05781.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05781/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05635/output/bcc_lattice_rp_05635.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05635/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing cases:  96%|█████████▌| 297/309 [1:46:51<04:27, 22.31s/it]Processing cases:  96%|█████████▋| 298/309 [1:47:13<04:02, 22.05s/it]Processing cases:  97%|█████████▋| 299/309 [1:47:35<03:41, 22.14s/it]Processing cases:  97%|█████████▋| 300/309 [1:47:58<03:20, 22.23s/it]Processing cases:  97%|█████████▋| 301/309 [1:48:19<02:56, 22.03s/it]Processing cases:  98%|█████████▊| 302/309 [1:48:40<02:32, 21.72s/it]Processing cases:  98%|█████████▊| 303/309 [1:49:02<02:10, 21.69s/it]Processing cases:  98%|█████████▊| 304/309 [1:49:23<01:48, 21.68s/it]Processing cases:  99%|█████████▊| 305/309 [1:49:45<01:26, 21.57s/it]Processing cases:  99%|█████████▉| 306/309 [1:50:06<01:04, 21.47s/it]Processing cases:  99%|█████████▉| 307/309 [1:50:27<00:42, 21.48s/it]Processing cases: 100%|█████████▉| 308/309 [1:50:49<00:21, 21.65s/it]Processing cases: 100%|██████████| 309/309 [1:51:11<00:00, 21.64s/it]Processing cases: 100%|██████████| 309/309 [1:51:11<00:00, 21.59s/it]
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05663/output/bcc_lattice_rp_05663.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05663/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05678/output/bcc_lattice_rp_05678.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05678/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05552/output/bcc_lattice_rp_05552.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05552/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05761/output/bcc_lattice_rp_05761.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05761/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05513/output/bcc_lattice_rp_05513.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05513/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05970/output/bcc_lattice_rp_05970.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05970/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05487/output/bcc_lattice_rp_05487.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05487/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05905/output/bcc_lattice_rp_05905.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05905/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05550/output/bcc_lattice_rp_05550.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05550/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05925/output/bcc_lattice_rp_05925.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05925/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05807/output/bcc_lattice_rp_05807.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05807/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05988/output/bcc_lattice_rp_05988.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05988/data.csv
+VTI processing succeeded
+Running ParaView conversion
+ParaView conversion succeeded
+Processing VTI → /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05620/output/bcc_lattice_rp_05620.vti
+Calculating first-order statistics
+Finished calculating first-order statistics
+Calculating higher-order statistics
+Finished calculating higher-order statistics
+Data written to /mnt/ssd1/joshgregory/clotsimnet_3d_300/bcc_lattice_rp_05620/data.csv
+VTI processing succeeded

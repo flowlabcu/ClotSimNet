@@ -1,0 +1,10 @@
+Bootstrap: localimage
+From: ./fenics_stnb_gmsh_v2.sif
+
+%post
+cd /opt
+wget https://www.paraview.org/files/v5.10/ParaView-5.10.0-MPI-Linux-Python3.9-x86_64.tar.gz
+tar -xf ParaView-5.10.0-MPI-Linux-Python3.9-x86_64.tar.gz
+
+%environment
+export PATH=/opt/ParaView-5.10.0-MPI-Linux-Python3.9-x86_64/bin:$PATH

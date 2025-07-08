@@ -1,0 +1,40 @@
+# Configuration file to write simulation parameters #
+
+#-------- Parameter settings --------#
+
+# Number of pores
+pore_num_low: 447
+pore_num_high: 448
+
+# Pore radii
+pore_radius_low: 0.017
+pore_radius_high: 0.024
+pore_num: 2
+
+# 50 # Number of items in the pore_radius list between pore_radius_low and pore_radius_high. Ex: pore_num = 20 creates 20 numbers equally spaced between pore_radius_low and pore_radius_high.
+
+# Seed numbers
+seed_low: 1
+seed_high: 2
+
+#-------- CFD/Meshing settings --------#
+
+mesh_size: 0.025
+# mesh_size: 0.05
+
+diffusivity: 0.0001 # mm^2/s, typical value is 0.001 converted from 1*10**(-9) m^2/s
+inlet_velocity: 20 # mm/s
+
+#-------- File settings --------#
+
+# Directory to save everything for meshing, CFD, post processing, etc. Highest-level directory
+data_dir: '/home/joshgregory/clotsimnet/data_gen_3d/test_geos_fine_2'
+
+# Directory of the sources for RSA code
+sources_dir: '/home/joshgregory/clotsimnet/data_gen_3d/scripts/sources'
+
+tasks_file_name: 'tasks'
+
+write_csv: True # Boolean, required to be True for meshing and CFD
+
+database_name: 'cnn_data.tar'

@@ -1,0 +1,30 @@
+
+Processing simulation 1 of 2 	50.0%
+Peclet number: 3400.0
+/home/jogr4852/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Newton iteration 0: r (abs) = 3.098e+02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Newton iteration 1: r (abs) = 3.011e-13 (tol = 1.000e-10) r (rel) = 9.719e-16 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Newton iteration 0: r (abs) = 1.291e-02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Newton iteration 1: r (abs) = 7.488e-17 (tol = 1.000e-10) r (rel) = 5.800e-15 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Meshing completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Reading aN_447_rp_017_seed_1.geo
+Wrote velocity boundaries to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/boundaries/u-bcs-aN_447_rp_017_seed_1.bounds
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/u.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/p.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/c.pvd
+Wrote data to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/data.csv.
+CFD completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Image path: /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/aN_447_rp_017_seed_1.jpeg
+Traceback (most recent call last):
+  File "/projects/jogr4852/clotsimnet/alpine_help/scripts/simulate.py", line 154, in <module>
+    run_simulation_from_csv(csv_path=tasks_file, mesh_size=mesh_size, D=D, vel=vel, sources_dir=sources_dir, row_index=i)
+  File "/projects/jogr4852/clotsimnet/alpine_help/scripts/simulate.py", line 111, in run_simulation_from_csv
+    cropped_image_path = crop_image_dynamic.remove_border_whitespace(uncropped_path=image_path)
+  File "/projects/jogr4852/clotsimnet/alpine_help/scripts/crop_image_dynamic.py", line 15, in remove_border_whitespace
+    image = Image.open(uncropped_path)
+  File "/opt/conda/lib/python3.8/site-packages/PIL/Image.py", line 2904, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/aN_447_rp_017_seed_1.jpeg'

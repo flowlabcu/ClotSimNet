@@ -1,0 +1,26 @@
+bootstrap: docker
+from: stnb/fenics
+
+%post
+cd /opt
+apt update
+apt-get install -y libglu1-mesa
+apt-get install -y libxft2 
+
+cd /opt
+wget https://gmsh.info/bin/Linux/gmsh-4.13.1-Linux64.tgz
+tar -xf gmsh-4.13.1-Linux64.tgz
+rm gmsh-4.13.1-Linux64.tgz
+
+cd /opt
+git clone https://github.com/flowlabcu/FLATiron
+cd FLATiron
+python3 -m pip install .
+
+cd /opt
+wget https://www.paraview.org/files/v5.10/ParaView-5.10.0-MPI-Linux-Python3.9-x86_64.tar.gz
+tar -xf ParaView-5.10.0-MPI-Linux-Python3.9-x86_64.tar.gz
+
+%environment
+export PATH=/opt/gmsh-4.13.1-Linux64/bin:$PATH
+export PATH=/opt/ParaView-5.10.0-MPI-Linux-Python3.9-x86_64/bin:$PATH

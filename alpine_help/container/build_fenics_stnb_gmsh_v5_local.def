@@ -1,0 +1,6 @@
+bootstrap: localimage
+from: /projects/jogr4852/clotsimnet/alpine_help/container/fenics_stnb_gmsh_v4.sif
+
+%post
+
+pip3 install piexif --no-cache-dir

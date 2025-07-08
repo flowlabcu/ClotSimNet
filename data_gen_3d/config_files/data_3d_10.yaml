@@ -1,0 +1,27 @@
+# Configuration file to write simulation parameters #
+
+#-------- Parameter settings --------#
+
+# Pore radii
+pore_radius_low: 0.04704 # For packing fraction of 0.2, lower bound for 2D
+pore_radius_high: 0.06583 # For packing fraction of 0.46, upper bound for 2D
+pore_num: 2 # Total number of simulations to create
+# Ex: pore_num = 20 creates 20 numbers equally spaced between pore_radius_low and pore_radius_high.
+
+#-------- CFD/Meshing settings --------#
+
+mesh_size: 0.01
+
+diffusivity: 0.0001 # mm^2/s, typical value is 0.001 converted from 1*10**(-9) m^2/s
+inlet_velocity: 20 # mm/s
+
+#-------- File settings --------#
+
+# Directory to save everything for meshing, CFD, post processing, etc. Highest-level directory
+data_dir: '/home/joshgregory/clotsimnet/data_gen_3d/lattice_test_10'
+
+tasks_file_name: 'tasks'
+
+write_csv: True # Boolean, required to be True for meshing and CFD
+
+database_name: 'cnn_data.tar'

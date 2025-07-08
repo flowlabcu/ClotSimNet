@@ -1,0 +1,24 @@
+/home/jogr4852/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-55zo8bex because the default path (/home/jovyan/.cache/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "/projects/jogr4852/clotsimnet/data_gen/scripts/simulate.py", line 11, in <module>
+    import process_images
+  File "/projects/jogr4852/clotsimnet/data_gen/scripts/process_images.py", line 3, in <module>
+    import skimage as ski
+  File "/opt/conda/lib/python3.8/site-packages/skimage/__init__.py", line 135, in <module>
+    from .data import data_dir
+  File "/opt/conda/lib/python3.8/site-packages/skimage/data/__init__.py", line 270, in <module>
+    _init_pooch()
+  File "/opt/conda/lib/python3.8/site-packages/skimage/data/__init__.py", line 255, in _init_pooch
+    os.makedirs(data_dir, exist_ok=True)
+  File "/opt/conda/lib/python3.8/os.py", line 213, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/opt/conda/lib/python3.8/os.py", line 213, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/opt/conda/lib/python3.8/os.py", line 213, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  [Previous line repeated 1 more time]
+  File "/opt/conda/lib/python3.8/os.py", line 223, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/home/jovyan'

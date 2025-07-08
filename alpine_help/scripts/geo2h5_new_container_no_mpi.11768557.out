@@ -1,0 +1,43 @@
+
+Processing simulation 1 of 2 	50.0%
+Peclet number: 3400.0
+/home/jogr4852/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+Meshing completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Reading aN_447_rp_017_seed_1.geo
+Wrote velocity boundaries to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/boundaries/u-bcs-aN_447_rp_017_seed_1.bounds
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/u.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/p.pvd
+Output file set to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/output/c.pvd
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Newton iteration 0: r (abs) = 3.098e+02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Newton iteration 1: r (abs) = 3.011e-13 (tol = 1.000e-10) r (rel) = 9.719e-16 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Newton iteration 0: r (abs) = 1.291e-02 (tol = 1.000e-10) r (rel) = 1.000e+00 (tol = 1.000e-09)
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Newton iteration 1: r (abs) = 7.488e-17 (tol = 1.000e-10) r (rel) = 5.800e-15 (tol = 1.000e-09)
+Newton solver finished in 1 iterations and 1 linear solver iterations.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Wrote data to /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1/data.csv.
+CFD completed at /projects/jogr4852/clotsimnet/test_feature_extraction/small_test/aN_447_rp_017_seed_1
+Traceback (most recent call last):
+  File "/projects/jogr4852/clotsimnet/alpine_help/scripts/simulate.py", line 155, in <module>
+    run_simulation_from_csv(csv_path=tasks_file, mesh_size=mesh_size, D=D, vel=vel, sources_dir=sources_dir, row_index=i)
+  File "/projects/jogr4852/clotsimnet/alpine_help/scripts/simulate.py", line 106, in run_simulation_from_csv
+    result = subprocess.run([command, 'paraview_convert_flowlab2_local_pv.py', case_dir], capture_output=True, text=True) # For Flowlab2
+  File "/opt/conda/lib/python3.8/subprocess.py", line 489, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/opt/conda/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/opt/conda/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/joshgregory/ParaView-5.10.0-MPI-Linux-Python3.9-x86_64/bin/pvbatch'
