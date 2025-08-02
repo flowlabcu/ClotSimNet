@@ -94,15 +94,15 @@ This runs the Python program `run.py` using FLATiron from a `.sh` script. If you
 
 ## Anaconda Environment
 
-[Anaconda](https://www.anaconda.com/download) was used for development. A copy of the environment for NVIDIA CUDA and a non-ARM CPU is in `clotsimnet_nvidia.yml`. To import it as a new Anaconda environment, run the following from a terminal:
+[Anaconda](https://www.anaconda.com/download) was used for development. A copy of the environment for NVIDIA CUDA and a non-ARM CPU is in `poresimnet_nvidia.yml`. To import it as a new Anaconda environment, run the following from a terminal:
 
 ```bash
-conda env create -f clotsimnet_nvidia.yml
+conda env create -f poresimnet_nvidia.yml
 ```
-On the GH200, [Mamba](https://anaconda.org/conda-forge/mamba) was used. A copy of the environment used for the GH200 can be found in `clotsimnet_nvidia_gh200.yml` and can be imported with
+On the GH200, [Mamba](https://anaconda.org/conda-forge/mamba) was used. A copy of the environment used for the GH200 can be found in `poresimnet_nvidia_gh200.yml` and can be imported with
 
 ```bash
-mamba env create -f clotsimnet_nvidia_gh200.yml
+mamba env create -f poresimnet_nvidia_gh200.yml
 ```
 
 ### Recreating the environment from scratch
@@ -264,14 +264,14 @@ There are two main pipelines that are used to train the model. Here they are, la
     where `path/to/config/file.yaml` is the path to the YAML configuration file.
 
     d. Run the parameter sweep with
-    
+
     ```bash
     python3 simulate.py /path/to/config/file.yaml
     ```
     All data is written and saved automatically.
 
     e. Create the MLP dataset with the `prepare_mlp.py` script in `ml/utils` via
-    
+
     ```bash
     python3 prepare_mlp.py /path/to/config/file.yaml
     ```
@@ -281,11 +281,11 @@ There are two main pipelines that are used to train the model. Here they are, la
 
 2. CFD/Synthetic Data Generation--3D
 
-    a. Use `/clotsimnet/data_gen_3d/scripts/lattice_pack_frac.ipynb` to find the number of pores, packing fraction ranges, mesh size, etc. for 3D data. Will write tasks CSV file here.
-    b. `/clotsimnet/data_gen_3d/scripts/mesh_all.py` to mesh all cases, passing the path to the tasks CSV file as a command-line argument.
-    c. `/clotsimnet/data_gen_3d/scripts/run_cfs_bash.sh` to run CFD simulations.
-    d. `/clotsimnet/ml/lmdb_dataset/paraview_convert_vti` to convert simulation data to VTI and perform image feature extraction.
-    e. `/clotsimnet/ml/train_base/mlp_3d`: Train MLPs on 3D data.
+    a. Use `/poresimnet/data_gen_3d/scripts/lattice_pack_frac.ipynb` to find the number of pores, packing fraction ranges, mesh size, etc. for 3D data. Will write tasks CSV file here.
+    b. `/poresimnet/data_gen_3d/scripts/mesh_all.py` to mesh all cases, passing the path to the tasks CSV file as a command-line argument.
+    c. `/poresimnet/data_gen_3d/scripts/run_cfs_bash.sh` to run CFD simulations.
+    d. `/poresimnet/ml/lmdb_dataset/paraview_convert_vti` to convert simulation data to VTI and perform image feature extraction.
+    e. `/poresimnet/ml/train_base/mlp_3d`: Train MLPs on 3D data.
 
 
 3. Model Training
@@ -321,20 +321,20 @@ Tune the models to make them perform better. The [Ray Tune](https://docs.ray.io/
 
 Order of scripts after YAML file has been created:
 
-1. `/clotsimnet/data_gen/scripts/write_tasks.py` to create tasks CSV file, passing the YAML configuration file path as a command-line argument.
-2. `/clotsimnet/data_gen/scripts/simulate.py` to mesh all cases then run CFD simulations, passing the YAML configuration file path as a command-line argument.
-3. `/clotsimnet/data_gen/scripts/simulate.py` to run CFD simulations, passing the YAML configuration file path as a command-line argument.
-4. `/clotsimnet/ml/utils/prepare_mlp.py` to create master CSV dataset of image features.
-5. `/clotsimnet/ml/lmdb_dataset/write_lmdb.py` to convert CNN image directory to LMDB format for more efficient training.
-6. `/clotsimnet/ml/train_base`: Train any base models, both CNNs and MLPs.
-7. `/clotsimnet/ml/hp_tune`: Tune any base models, both CNNs and MLPs.
-8. `/clotsimnet/ml/train_tuned`: Train tuned models after hyperparameter tuning.
-9. `/clotsimnet/ml/inference/safetensors/`: Take model exported in `.safetensors` format and run inference on the evaluation dataset.
-10. `/clotsimnet/ml/inference/safetensors/`: Combine all predictions into one CSV.
-11. `/clotsimnet/ml/inference/safetensors/plot_preds.py`: Plot model predictions against labeled values from evaluation dataset. 
-12. `/clotsimnet/ml/inference/safetensors/pred_stats.py`: Calculate model statistics after inference.
-13. `/clotsimnet/figures/plot_loss.py`: Plot the losses for models.
-14. `/clotsimnet/ml/xai/`: Run interpretability on CNN and MLP architectures.
+1. `/poresimnet/data_gen/scripts/write_tasks.py` to create tasks CSV file, passing the YAML configuration file path as a command-line argument.
+2. `/poresimnet/data_gen/scripts/simulate.py` to mesh all cases then run CFD simulations, passing the YAML configuration file path as a command-line argument.
+3. `/poresimnet/data_gen/scripts/simulate.py` to run CFD simulations, passing the YAML configuration file path as a command-line argument.
+4. `/poresimnet/ml/utils/prepare_mlp.py` to create master CSV dataset of image features.
+5. `/poresimnet/ml/lmdb_dataset/write_lmdb.py` to convert CNN image directory to LMDB format for more efficient training.
+6. `/poresimnet/ml/train_base`: Train any base models, both CNNs and MLPs.
+7. `/poresimnet/ml/hp_tune`: Tune any base models, both CNNs and MLPs.
+8. `/poresimnet/ml/train_tuned`: Train tuned models after hyperparameter tuning.
+9. `/poresimnet/ml/inference/safetensors/`: Take model exported in `.safetensors` format and run inference on the evaluation dataset.
+10. `/poresimnet/ml/inference/safetensors/`: Combine all predictions into one CSV.
+11. `/poresimnet/ml/inference/safetensors/plot_preds.py`: Plot model predictions against labeled values from evaluation dataset.
+12. `/poresimnet/ml/inference/safetensors/pred_stats.py`: Calculate model statistics after inference.
+13. `/poresimnet/figures/plot_loss.py`: Plot the losses for models.
+14. `/poresimnet/ml/xai/`: Run interpretability on CNN and MLP architectures.
 
 ## General Pipeline: 3D
 
@@ -345,17 +345,17 @@ Order of scripts after YAML file has been created:
 
 Order of scripts (repeated from above):
 
-1. `/clotsimnet/data_gen_3d/scripts/lattice_pack_frac.ipynb` to create tasks CSV file.
-2. `/clotsimnet/data_gen_3d/scripts/mesh_all.py` to mesh all cases, passing the path to the tasks CSV file as a command-line argument.
-3. `/clotsimnet/data_gen_3d/scripts/run_cfd_bash.sh` to run CFD simulations. Make sure it and the Python file it calls are both executable:
+1. `/poresimnet/data_gen_3d/scripts/lattice_pack_frac.ipynb` to create tasks CSV file.
+2. `/poresimnet/data_gen_3d/scripts/mesh_all.py` to mesh all cases, passing the path to the tasks CSV file as a command-line argument.
+3. `/poresimnet/data_gen_3d/scripts/run_cfd_bash.sh` to run CFD simulations. Make sure it and the Python file it calls are both executable:
 
 ```bash
 chmod +x cfd_single_with_bash.py run_cfd_bash.sh
 ```
 
-4. `/clotsimnet/ml/lmdb_dataset/paraview_convert_vti` to convert simulation data to VTI and perform image feature extraction.
-5. `/clotsimnet/ml/utils/prepare_mlp.py` to create master CSV dataset of image features.
-6. `/clotsimnet/ml/train_base/mlp_3d`: Train MLPs on 3D data.
+4. `/poresimnet/ml/lmdb_dataset/paraview_convert_vti` to convert simulation data to VTI and perform image feature extraction.
+5. `/poresimnet/ml/utils/prepare_mlp.py` to create master CSV dataset of image features.
+6. `/poresimnet/ml/train_base/mlp_3d`: Train MLPs on 3D data.
 
 
 If using WSL and you find many `:Zone.Identifier` files. Use the script `delete_zone_id.py` to remove them. All you need to change is the `path` variable :)
