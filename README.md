@@ -2,6 +2,12 @@
 
 ![Simulated CT perfusion within a blood clot](aN_447_rp_01700_seed_1_crop.jpeg)
 
+**Note:**
+
+- This repository contains all source codes and progenitor files for simulation workflows for the `PoreSimNet` toolkit.
+- The corresponding trained models for a 2D and a 3D particle packing model of a heterogeneous porous media flow (*motivated by blood clotting examples*) is available on `HuggingFace` at the following link: [PoresimNet-On-HuggingFace](https://huggingface.co/collections/flowlabcu/poresimnet-68841531ce02622a915a34ad).
+- The `HuggingFace` repository contains both a set of trained models, and a set of training dataset for immediately using the models for building some inference. 
+
 ## FLATiron Install
 
 All CFD code was run using [FLATiron](https://github.com/flowlabcu/FLATiron), a finite element Python library using FEniCS, developed internally at CU Boulder's [FLOWLab](https://www.flowphysicslab.com/). These instructions are specifically for installation of FLATiron on CU's compute cluster, however they should work for other Linux/Unix-based environments (including [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) on Windows machines) as well.
