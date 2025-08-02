@@ -1,5 +1,4 @@
-# ClotSimNet
-Repository for Master's of Science Thesis, University of Colorado Boulder
+# PoreSimNet
 
 ![Simulated CT perfusion within a blood clot](aN_447_rp_01700_seed_1_crop.jpeg)
 
